@@ -1295,10 +1295,7 @@
   </g>
   <g clip-path="url(#p)" font-weight="400" font-size="8.849" font-family="Arial Unicode MS" transform="matrix(1.33333 0 0 -1.33333 0 1056)">
     <text transform="scale(1 -1)" style="-inkscape-font-specification:ArialUnicodeMS" x="217.635" y="-635.236">
-      <tspan x="217.635" y="-635.236">x</tspan>
-    </text>
-    <text transform="scale(1 -1)" style="-inkscape-font-specification:ArialUnicodeMS" x="217.192" y="-635.52">
-      <tspan x="217.192" y="-635.52">&#x30C;</tspan>
+      <tspan x="217.635" y="-635.236">x&#x30C;</tspan>
     </text>
   </g>
   <g clip-path="url(#q)" transform="matrix(1.33333 0 0 -1.33333 0 1056)">
@@ -1833,10 +1830,7 @@
       <path d="M211.63 493.639h16.681v16.68h-16.68z" fill="none" stroke="#000" stroke-width="2" stroke-miterlimit="10"/>
     </g>
     <text transform="matrix(1.33333 0 0 1.33333 0 1056)" style="-inkscape-font-specification:ArialUnicodeMS" x="217.02" y="-500.236" font-weight="400" font-size="8.849" font-family="Arial Unicode MS">
-      <tspan x="217.02" y="-500.236">X</tspan>
-    </text>
-    <text transform="matrix(1.33333 0 0 1.33333 0 1056)" style="-inkscape-font-specification:ArialUnicodeMS" x="217.311" y="-502.269" font-weight="400" font-size="8.849" font-family="Arial Unicode MS">
-      <tspan x="217.311" y="-502.269">&#x30C;</tspan>
+      <tspan x="217.02" y="-500.236">X&#x30C;</tspan>
     </text>
     <g clip-path="url(#bE)" transform="matrix(1.33333 0 0 -1.33333 0 1056)">
       <path d="M230.294 492.639h18.68v18.68h-18.68z" fill="#fff"/>
