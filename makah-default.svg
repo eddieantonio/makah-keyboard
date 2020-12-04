@@ -1,2977 +1,899 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="11in"
-   height="3.71in"
-   viewBox="0 0 279.4 94.234004"
-   version="1.1"
-   id="svg4298"
-   inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
-   sodipodi:docname="makah-default.svg">
-  <defs
-     id="defs4292">
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="a">
-      <path
-         d="m 72.983,627.639 h 18.68 v 18.68 h -18.68 z"
-         id="path10" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="b">
-      <path
-         d="m 73.966,628.622 h 16.715 v 16.714 H 73.966 Z"
-         id="path13" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="c">
-      <path
-         d="m 92.647,627.639 h 18.68 v 18.68 h -18.68 z"
-         id="path16" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="d">
-      <path
-         d="m 93.63,628.622 h 16.715 v 16.714 H 93.63 Z"
-         id="path19" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="e">
-      <path
-         d="m 112.31,627.639 h 18.682 v 18.68 H 112.31 Z"
-         id="path22" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="f">
-      <path
-         d="m 113.294,628.622 h 16.714 v 16.714 h -16.714 z"
-         id="path25" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="g">
-      <path
-         d="m 131.975,627.639 h 18.68 v 18.68 h -18.68 z"
-         id="path28" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="h">
-      <path
-         d="m 132.958,628.622 h 16.714 v 16.714 h -16.714 z"
-         id="path31" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="i">
-      <path
-         d="m 151.639,627.639 h 18.68 v 18.68 h -18.68 z"
-         id="path34" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="j">
-      <path
-         d="m 152.622,628.622 h 16.714 v 16.714 h -16.714 z"
-         id="path37" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="k">
-      <path
-         d="m 171.303,627.639 h 18.68 v 18.68 h -18.68 z"
-         id="path40" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="l">
-      <path
-         d="M 172.286,628.622 H 189 v 16.714 h -16.714 z"
-         id="path43" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="m">
-      <path
-         d="m 190.966,627.639 h 18.681 v 18.68 h -18.68 z"
-         id="path46" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="n">
-      <path
-         d="m 191.95,628.622 h 16.714 v 16.714 H 191.95 Z"
-         id="path49" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="o">
-      <path
-         d="m 210.63,627.639 h 18.681 v 18.68 h -18.68 z"
-         id="path52" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="p">
-      <path
-         d="m 211.613,628.622 h 16.715 v 16.714 h -16.715 z"
-         id="path55" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="q">
-      <path
-         d="m 230.294,627.639 h 18.68 v 18.68 h -18.68 z"
-         id="path58" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="r">
-      <path
-         d="m 231.277,628.622 h 16.715 v 16.714 h -16.715 z"
-         id="path61" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="s">
-      <path
-         d="m 249.958,627.639 h 18.68 v 18.68 h -18.68 z"
-         id="path64" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="t">
-      <path
-         d="m 250.941,628.622 h 16.714 v 16.714 h -16.714 z"
-         id="path67" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="u">
-      <path
-         d="m 269.622,627.639 h 18.68 v 18.68 h -18.68 z"
-         id="path70" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="v">
-      <path
-         d="m 270.605,628.622 h 16.714 v 16.714 h -16.714 z"
-         id="path73" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="w">
-      <path
-         d="m 289.286,627.639 h 18.68 v 18.68 h -18.68 z"
-         id="path76" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="x">
-      <path
-         d="m 290.269,628.622 h 16.714 v 16.714 H 290.27 Z"
-         id="path79" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="y">
-      <path
-         d="m 308.95,627.639 h 18.68 v 18.68 h -18.68 z"
-         id="path82" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="z">
-      <path
-         d="m 309.933,628.622 h 16.714 v 16.714 h -16.714 z"
-         id="path85" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="A">
-      <path
-         d="m 318.781,607.975 h 18.681 v 18.68 h -18.68 z"
-         id="path88" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="B">
-      <path
-         d="m 319.765,608.958 h 16.714 v 16.714 h -16.714 z"
-         id="path91" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="C">
-      <path
-         d="m 299.118,607.975 h 18.68 v 18.68 h -18.68 z"
-         id="path94" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="D">
-      <path
-         d="m 300.1,608.958 h 16.715 v 16.714 h -16.714 z"
-         id="path97" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="E">
-      <path
-         d="m 279.454,607.975 h 18.68 v 18.68 h -18.68 z"
-         id="path100" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="F">
-      <path
-         d="m 280.437,608.958 h 16.714 v 16.714 h -16.714 z"
-         id="path103" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="G">
-      <path
-         d="m 259.79,607.975 h 18.68 v 18.68 h -18.68 z"
-         id="path106" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="H">
-      <path
-         d="m 260.773,608.958 h 16.714 v 16.714 h -16.714 z"
-         id="path109" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="I">
-      <path
-         d="m 240.126,607.975 h 18.68 v 18.68 h -18.68 z"
-         id="path112" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="J">
-      <path
-         d="m 241.11,608.958 h 16.713 v 16.714 H 241.11 Z"
-         id="path115" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="K">
-      <path
-         d="m 220.462,607.975 h 18.68 v 18.68 h -18.68 z"
-         id="path118" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="L">
-      <path
-         d="m 221.445,608.958 h 16.715 v 16.714 h -16.715 z"
-         id="path121" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="M">
-      <path
-         d="m 200.798,607.975 h 18.681 v 18.68 h -18.68 z"
-         id="path124" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="N">
-      <path
-         d="m 201.781,608.958 h 16.715 v 16.714 H 201.78 Z"
-         id="path127" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="O">
-      <path
-         d="m 181.135,607.975 h 18.68 v 18.68 h -18.68 z"
-         id="path130" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="P">
-      <path
-         d="m 182.118,608.958 h 16.714 v 16.714 h -16.714 z"
-         id="path133" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="Q">
-      <path
-         d="m 161.47,607.975 h 18.681 v 18.68 h -18.68 z"
-         id="path136" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="R">
-      <path
-         d="m 162.454,608.958 h 16.714 v 16.714 h -16.714 z"
-         id="path139" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="S">
-      <path
-         d="m 141.807,607.975 h 18.68 v 18.68 h -18.68 z"
-         id="path142" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="T">
-      <path
-         d="m 142.79,608.958 h 16.714 v 16.714 H 142.79 Z"
-         id="path145" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="U">
-      <path
-         d="m 122.143,607.975 h 18.68 v 18.68 h -18.68 z"
-         id="path148" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="V">
-      <path
-         d="m 123.126,608.958 h 16.714 v 16.714 h -16.714 z"
-         id="path151" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="W">
-      <path
-         d="m 102.479,607.975 h 18.68 v 18.68 h -18.68 z"
-         id="path154" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="X">
-      <path
-         d="m 103.462,608.958 h 16.714 v 16.714 h -16.714 z"
-         id="path157" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="Y">
-      <path
-         d="m 107.395,588.31 h 18.68 v 18.682 h -18.68 z"
-         id="path160" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="Z">
-      <path
-         d="m 108.378,589.294 h 16.714 v 16.714 h -16.714 z"
-         id="path163" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="aa">
-      <path
-         d="m 127.059,588.31 h 18.68 v 18.682 h -18.68 z"
-         id="path166" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="ab">
-      <path
-         d="m 128.042,589.294 h 16.714 v 16.714 h -16.714 z"
-         id="path169" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="ac">
-      <path
-         d="m 146.723,588.31 h 18.68 v 18.682 h -18.68 z"
-         id="path172" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="ad">
-      <path
-         d="m 147.706,589.294 h 16.714 v 16.714 h -16.714 z"
-         id="path175" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="ae">
-      <path
-         d="m 166.387,588.31 h 18.68 v 18.682 h -18.68 z"
-         id="path178" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="af">
-      <path
-         d="m 167.37,589.294 h 16.714 v 16.714 H 167.37 Z"
-         id="path181" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="ag">
-      <path
-         d="m 186.05,588.31 h 18.681 v 18.682 h -18.68 z"
-         id="path184" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="ah">
-      <path
-         d="m 187.034,589.294 h 16.714 v 16.714 h -16.714 z"
-         id="path187" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="ai">
-      <path
-         d="m 205.714,588.31 h 18.681 v 18.682 h -18.68 z"
-         id="path190" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="aj">
-      <path
-         d="m 206.697,589.294 h 16.715 v 16.714 h -16.715 z"
-         id="path193" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="ak">
-      <path
-         d="m 225.378,588.31 h 18.68 v 18.682 h -18.68 z"
-         id="path196" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="al">
-      <path
-         d="m 226.361,589.294 h 16.715 v 16.714 H 226.36 Z"
-         id="path199" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="am">
-      <path
-         d="m 245.042,588.31 h 18.68 v 18.682 h -18.68 z"
-         id="path202" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="an">
-      <path
-         d="m 246.025,589.294 h 16.714 v 16.714 h -16.714 z"
-         id="path205" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="ao">
-      <path
-         d="m 264.706,588.31 h 18.68 v 18.682 h -18.68 z"
-         id="path208" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="ap">
-      <path
-         d="m 265.69,589.294 h 16.713 v 16.714 H 265.69 Z"
-         id="path211" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="aq">
-      <path
-         d="m 284.37,588.31 h 18.68 v 18.682 h -18.68 z"
-         id="path214" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="ar">
-      <path
-         d="m 285.353,589.294 h 16.714 v 16.714 h -16.714 z"
-         id="path217" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="as">
-      <path
-         d="m 304.034,588.31 h 18.68 v 18.682 h -18.68 z"
-         id="path220" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="at">
-      <path
-         d="m 305.017,589.294 h 16.714 v 16.714 h -16.714 z"
-         id="path223" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="au">
-      <path
-         d="m 294.202,568.647 h 18.68 v 18.68 h -18.68 z"
-         id="path226" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="av">
-      <path
-         d="m 295.185,569.63 h 16.714 v 16.715 h -16.714 z"
-         id="path229" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="aw">
-      <path
-         d="m 274.538,568.647 h 18.68 v 18.68 h -18.68 z"
-         id="path232" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="ax">
-      <path
-         d="m 275.521,569.63 h 16.714 v 16.715 h -16.714 z"
-         id="path235" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="ay">
-      <path
-         d="m 254.874,568.647 h 18.68 v 18.68 h -18.68 z"
-         id="path238" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="az">
-      <path
-         d="m 255.857,569.63 h 16.714 v 16.715 h -16.714 z"
-         id="path241" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="aA">
-      <path
-         d="m 235.21,568.647 h 18.68 v 18.68 h -18.68 z"
-         id="path244" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="aB">
-      <path
-         d="m 236.193,569.63 h 16.715 v 16.715 h -16.715 z"
-         id="path247" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="aC">
-      <path
-         d="m 215.546,568.647 h 18.68 v 18.68 h -18.68 z"
-         id="path250" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="aD">
-      <path
-         d="m 216.53,569.63 h 16.714 v 16.715 h -16.715 z"
-         id="path253" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="aE">
-      <path
-         d="m 195.882,568.647 h 18.681 v 18.68 h -18.68 z"
-         id="path256" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="aF">
-      <path
-         d="m 196.865,569.63 h 16.715 v 16.715 h -16.715 z"
-         id="path259" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="aG">
-      <path
-         d="m 176.219,568.647 h 18.68 v 18.68 h -18.68 z"
-         id="path262" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="aH">
-      <path
-         d="m 177.202,569.63 h 16.714 v 16.715 h -16.714 z"
-         id="path265" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="aI">
-      <path
-         d="m 156.555,568.647 h 18.68 v 18.68 h -18.68 z"
-         id="path268" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="aJ">
-      <path
-         d="m 157.538,569.63 h 16.714 v 16.715 h -16.714 z"
-         id="path271" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="aK">
-      <path
-         d="m 136.89,568.647 h 18.681 v 18.68 h -18.68 z"
-         id="path274" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="aL">
-      <path
-         d="m 137.874,569.63 h 16.714 v 16.715 h -16.714 z"
-         id="path277" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="aM">
-      <path
-         d="m 117.227,568.647 h 18.68 v 18.68 h -18.68 z"
-         id="path280" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="aN">
-      <path
-         d="m 118.21,569.63 h 16.714 v 16.715 H 118.21 Z"
-         id="path283" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="aO">
-      <path
-         d="m 72.983,607.975 h 28.513 v 18.68 H 72.983 Z"
-         id="path286" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="aP">
-      <path
-         d="m 73.966,608.958 h 26.547 v 16.714 H 73.966 Z"
-         id="path289" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="aQ">
-      <path
-         d="m 72.983,588.31 h 33.429 v 18.682 H 72.983 Z"
-         id="path292" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="aR">
-      <path
-         d="m 73.966,589.294 h 31.463 v 16.714 H 73.966 Z"
-         id="path295" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="aS">
-      <path
-         d="m 72.983,568.647 h 43.26 v 18.68 h -43.26 z"
-         id="path298" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="aT">
-      <path
-         d="m 73.966,569.63 h 41.295 v 16.715 H 73.966 Z"
-         id="path301" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="aU">
-      <path
-         d="m 313.865,568.647 h 48.177 v 18.68 h -48.176 z"
-         id="path304" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="aV">
-      <path
-         d="m 314.849,569.63 h 46.21 v 16.715 h -46.21 z"
-         id="path307" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="aW">
-      <path
-         d="M 72.983,548.983 H 96.58 v 18.68 H 72.983 Z"
-         id="path310" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="aX">
-      <path
-         d="m 73.966,549.966 h 21.63 v 16.715 h -21.63 z"
-         id="path313" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="aY">
-      <path
-         d="m 97.563,548.983 h 23.597 v 18.68 H 97.563 Z"
-         id="path316" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="aZ">
-      <path
-         d="m 98.546,549.966 h 21.63 v 16.715 h -21.63 z"
-         id="path319" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="ba">
-      <path
-         d="m 122.143,548.983 h 23.597 v 18.68 h -23.597 z"
-         id="path322" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="bb">
-      <path
-         d="m 123.126,549.966 h 21.63 v 16.715 h -21.63 z"
-         id="path325" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="bc">
-      <path
-         d="m 289.286,548.983 h 23.596 v 18.68 h -23.596 z"
-         id="path328" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="bd">
-      <path
-         d="m 290.269,549.966 h 21.63 v 16.715 h -21.63 z"
-         id="path331" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="be">
-      <path
-         d="m 313.865,548.983 h 23.597 v 18.68 h -23.596 z"
-         id="path334" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="bf">
-      <path
-         d="m 314.849,549.966 h 21.63 v 16.715 h -21.63 z"
-         id="path337" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="bg">
-      <path
-         d="m 338.445,548.983 h 23.597 v 18.68 h -23.597 z"
-         id="path340" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="bh">
-      <path
-         d="m 339.429,549.966 h 21.63 v 16.715 h -21.63 z"
-         id="path343" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="bi">
-      <path
-         d="m 328.613,627.639 h 33.429 v 18.68 h -33.429 z"
-         id="path346" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="bj">
-      <path
-         d="m 329.597,628.622 h 31.462 v 16.714 h -31.462 z"
-         id="path349" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="bk">
-      <path
-         d="m 338.445,607.975 h 23.597 v 18.68 h -23.597 z"
-         id="path352" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="bl">
-      <path
-         d="m 339.429,608.958 h 21.63 v 16.714 h -21.63 z"
-         id="path355" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="bm">
-      <path
-         d="m 323.697,588.31 h 38.345 v 18.682 h -38.344 z"
-         id="path358" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="bn">
-      <path
-         d="m 324.68,589.294 h 36.379 v 16.714 H 324.68 Z"
-         id="path361" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="bo">
-      <path
-         d="m 146.723,548.983 h 141.58 v 18.68 h -141.58 z"
-         id="path364" />
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="11in" height="3.71in" viewBox="0 0 279.4 94.234">
+  <defs>
+    <clipPath clipPathUnits="userSpaceOnUse" id="a">
+      <path d="M72.983 627.639h18.68v18.68h-18.68z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="b">
+      <path d="M73.966 628.622h16.715v16.714H73.966z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="c">
+      <path d="M92.647 627.639h18.68v18.68h-18.68z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="d">
+      <path d="M93.63 628.622h16.715v16.714H93.63z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="e">
+      <path d="M112.31 627.639h18.682v18.68H112.31z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="f">
+      <path d="M113.294 628.622h16.714v16.714h-16.714z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="g">
+      <path d="M131.975 627.639h18.68v18.68h-18.68z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="h">
+      <path d="M132.958 628.622h16.714v16.714h-16.714z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="i">
+      <path d="M151.639 627.639h18.68v18.68h-18.68z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="j">
+      <path d="M152.622 628.622h16.714v16.714h-16.714z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="k">
+      <path d="M171.303 627.639h18.68v18.68h-18.68z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="l">
+      <path d="M172.286 628.622H189v16.714h-16.714z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="m">
+      <path d="M190.966 627.639h18.681v18.68h-18.68z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="n">
+      <path d="M191.95 628.622h16.714v16.714H191.95z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="o">
+      <path d="M210.63 627.639h18.681v18.68h-18.68z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="p">
+      <path d="M211.613 628.622h16.715v16.714h-16.715z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="q">
+      <path d="M230.294 627.639h18.68v18.68h-18.68z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="r">
+      <path d="M231.277 628.622h16.715v16.714h-16.715z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="s">
+      <path d="M249.958 627.639h18.68v18.68h-18.68z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="t">
+      <path d="M250.941 628.622h16.714v16.714h-16.714z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="u">
+      <path d="M269.622 627.639h18.68v18.68h-18.68z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="v">
+      <path d="M270.605 628.622h16.714v16.714h-16.714z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="w">
+      <path d="M289.286 627.639h18.68v18.68h-18.68z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="x">
+      <path d="M290.269 628.622h16.714v16.714H290.27z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="y">
+      <path d="M308.95 627.639h18.68v18.68h-18.68z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="z">
+      <path d="M309.933 628.622h16.714v16.714h-16.714z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="A">
+      <path d="M318.781 607.975h18.681v18.68h-18.68z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="B">
+      <path d="M319.765 608.958h16.714v16.714h-16.714z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="C">
+      <path d="M299.118 607.975h18.68v18.68h-18.68z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="D">
+      <path d="M300.1 608.958h16.715v16.714h-16.714z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="E">
+      <path d="M279.454 607.975h18.68v18.68h-18.68z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="F">
+      <path d="M280.437 608.958h16.714v16.714h-16.714z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="G">
+      <path d="M259.79 607.975h18.68v18.68h-18.68z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="H">
+      <path d="M260.773 608.958h16.714v16.714h-16.714z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="I">
+      <path d="M240.126 607.975h18.68v18.68h-18.68z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="J">
+      <path d="M241.11 608.958h16.713v16.714H241.11z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="K">
+      <path d="M220.462 607.975h18.68v18.68h-18.68z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="L">
+      <path d="M221.445 608.958h16.715v16.714h-16.715z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="M">
+      <path d="M200.798 607.975h18.681v18.68h-18.68z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="N">
+      <path d="M201.781 608.958h16.715v16.714H201.78z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="O">
+      <path d="M181.135 607.975h18.68v18.68h-18.68z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="P">
+      <path d="M182.118 608.958h16.714v16.714h-16.714z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="Q">
+      <path d="M161.47 607.975h18.681v18.68h-18.68z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="R">
+      <path d="M162.454 608.958h16.714v16.714h-16.714z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="S">
+      <path d="M141.807 607.975h18.68v18.68h-18.68z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="T">
+      <path d="M142.79 608.958h16.714v16.714H142.79z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="U">
+      <path d="M122.143 607.975h18.68v18.68h-18.68z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="V">
+      <path d="M123.126 608.958h16.714v16.714h-16.714z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="W">
+      <path d="M102.479 607.975h18.68v18.68h-18.68z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="X">
+      <path d="M103.462 608.958h16.714v16.714h-16.714z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="Y">
+      <path d="M107.395 588.31h18.68v18.682h-18.68z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="Z">
+      <path d="M108.378 589.294h16.714v16.714h-16.714z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="aa">
+      <path d="M127.059 588.31h18.68v18.682h-18.68z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="ab">
+      <path d="M128.042 589.294h16.714v16.714h-16.714z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="ac">
+      <path d="M146.723 588.31h18.68v18.682h-18.68z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="ad">
+      <path d="M147.706 589.294h16.714v16.714h-16.714z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="ae">
+      <path d="M166.387 588.31h18.68v18.682h-18.68z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="af">
+      <path d="M167.37 589.294h16.714v16.714H167.37z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="ag">
+      <path d="M186.05 588.31h18.681v18.682h-18.68z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="ah">
+      <path d="M187.034 589.294h16.714v16.714h-16.714z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="ai">
+      <path d="M205.714 588.31h18.681v18.682h-18.68z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="aj">
+      <path d="M206.697 589.294h16.715v16.714h-16.715z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="ak">
+      <path d="M225.378 588.31h18.68v18.682h-18.68z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="al">
+      <path d="M226.361 589.294h16.715v16.714H226.36z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="am">
+      <path d="M245.042 588.31h18.68v18.682h-18.68z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="an">
+      <path d="M246.025 589.294h16.714v16.714h-16.714z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="ao">
+      <path d="M264.706 588.31h18.68v18.682h-18.68z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="ap">
+      <path d="M265.69 589.294h16.713v16.714H265.69z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="aq">
+      <path d="M284.37 588.31h18.68v18.682h-18.68z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="ar">
+      <path d="M285.353 589.294h16.714v16.714h-16.714z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="as">
+      <path d="M304.034 588.31h18.68v18.682h-18.68z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="at">
+      <path d="M305.017 589.294h16.714v16.714h-16.714z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="au">
+      <path d="M294.202 568.647h18.68v18.68h-18.68z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="av">
+      <path d="M295.185 569.63h16.714v16.715h-16.714z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="aw">
+      <path d="M274.538 568.647h18.68v18.68h-18.68z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="ax">
+      <path d="M275.521 569.63h16.714v16.715h-16.714z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="ay">
+      <path d="M254.874 568.647h18.68v18.68h-18.68z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="az">
+      <path d="M255.857 569.63h16.714v16.715h-16.714z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="aA">
+      <path d="M235.21 568.647h18.68v18.68h-18.68z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="aB">
+      <path d="M236.193 569.63h16.715v16.715h-16.715z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="aC">
+      <path d="M215.546 568.647h18.68v18.68h-18.68z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="aD">
+      <path d="M216.53 569.63h16.714v16.715h-16.715z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="aE">
+      <path d="M195.882 568.647h18.681v18.68h-18.68z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="aF">
+      <path d="M196.865 569.63h16.715v16.715h-16.715z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="aG">
+      <path d="M176.219 568.647h18.68v18.68h-18.68z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="aH">
+      <path d="M177.202 569.63h16.714v16.715h-16.714z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="aI">
+      <path d="M156.555 568.647h18.68v18.68h-18.68z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="aJ">
+      <path d="M157.538 569.63h16.714v16.715h-16.714z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="aK">
+      <path d="M136.89 568.647h18.681v18.68h-18.68z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="aL">
+      <path d="M137.874 569.63h16.714v16.715h-16.714z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="aM">
+      <path d="M117.227 568.647h18.68v18.68h-18.68z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="aN">
+      <path d="M118.21 569.63h16.714v16.715H118.21z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="aO">
+      <path d="M72.983 607.975h28.513v18.68H72.983z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="aP">
+      <path d="M73.966 608.958h26.547v16.714H73.966z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="aQ">
+      <path d="M72.983 588.31h33.429v18.682H72.983z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="aR">
+      <path d="M73.966 589.294h31.463v16.714H73.966z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="aS">
+      <path d="M72.983 568.647h43.26v18.68h-43.26z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="aT">
+      <path d="M73.966 569.63h41.295v16.715H73.966z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="aU">
+      <path d="M313.865 568.647h48.177v18.68h-48.176z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="aV">
+      <path d="M314.849 569.63h46.21v16.715h-46.21z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="aW">
+      <path d="M72.983 548.983H96.58v18.68H72.983z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="aX">
+      <path d="M73.966 549.966h21.63v16.715h-21.63z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="aY">
+      <path d="M97.563 548.983h23.597v18.68H97.563z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="aZ">
+      <path d="M98.546 549.966h21.63v16.715h-21.63z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="ba">
+      <path d="M122.143 548.983h23.597v18.68h-23.597z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="bb">
+      <path d="M123.126 549.966h21.63v16.715h-21.63z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="bc">
+      <path d="M289.286 548.983h23.596v18.68h-23.596z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="bd">
+      <path d="M290.269 549.966h21.63v16.715h-21.63z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="be">
+      <path d="M313.865 548.983h23.597v18.68h-23.596z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="bf">
+      <path d="M314.849 549.966h21.63v16.715h-21.63z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="bg">
+      <path d="M338.445 548.983h23.597v18.68h-23.597z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="bh">
+      <path d="M339.429 549.966h21.63v16.715h-21.63z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="bi">
+      <path d="M328.613 627.639h33.429v18.68h-33.429z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="bj">
+      <path d="M329.597 628.622h31.462v16.714h-31.462z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="bk">
+      <path d="M338.445 607.975h23.597v18.68h-23.597z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="bl">
+      <path d="M339.429 608.958h21.63v16.714h-21.63z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="bm">
+      <path d="M323.697 588.31h38.345v18.682h-38.344z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="bn">
+      <path d="M324.68 589.294h36.379v16.714H324.68z"/>
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="bo">
+      <path d="M146.723 548.983h141.58v18.68h-141.58z"/>
     </clipPath>
   </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.53507519"
-     inkscape:cx="110.92268"
-     inkscape:cy="438.32833"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     units="in"
-     inkscape:window-width="3840"
-     inkscape:window-height="1578"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0" />
-  <metadata
-     id="metadata4295">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1">
-    <g
-       clip-path="url(#a)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1237"
-       style="stroke-width:0.364975">
-      <path
-         d="m 72.983,627.639 h 18.68 v 18.68 h -18.68 z"
-         fill="#ffffff"
-         id="path1233"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 73.983,628.639 h 16.68 v 16.68 h -16.68 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1235" />
-    </g>
-    <g
-       clip-path="url(#b)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1243"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,80.85,635.236)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1241"><tspan
-           x="0"
-           y="0"
-           id="tspan1239"
-           style="stroke-width:0.364975">`</tspan></text>
-    </g>
-    <g
-       clip-path="url(#c)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1249"
-       style="stroke-width:0.364975">
-      <path
-         d="m 92.647,627.639 h 18.68 v 18.68 h -18.68 z"
-         fill="#ffffff"
-         id="path1245"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 93.647,628.639 h 16.68 v 16.68 h -16.68 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1247" />
-    </g>
-    <g
-       clip-path="url(#d)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1255"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,99.527,635.236)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1253"><tspan
-           x="0"
-           y="0"
-           id="tspan1251"
-           style="stroke-width:0.364975">ḥ</tspan></text>
-    </g>
-    <g
-       clip-path="url(#e)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1261"
-       style="stroke-width:0.364975">
-      <path
-         d="m 112.31,627.639 h 18.682 v 18.68 H 112.31 Z"
-         fill="#ffffff"
-         id="path1257"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 113.31,628.639 h 16.682 v 16.68 H 113.31 Z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1259" />
-    </g>
-    <g
-       clip-path="url(#f)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1267"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,119.93,635.236)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1265"><tspan
-           x="0"
-           y="0"
-           id="tspan1263"
-           style="stroke-width:0.364975">ʷ</tspan></text>
-    </g>
-    <g
-       clip-path="url(#g)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1273"
-       style="stroke-width:0.364975">
-      <path
-         d="m 131.975,627.639 h 18.68 v 18.68 h -18.68 z"
-         fill="#ffffff"
-         id="path1269"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 132.975,628.639 h 16.68 v 16.68 h -16.68 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1271" />
-    </g>
-    <g
-       clip-path="url(#h)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1279"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,139.103,635.236)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1277"><tspan
-           x="0"
-           y="0"
-           id="tspan1275"
-           style="stroke-width:0.364975">š</tspan></text>
-    </g>
-    <g
-       clip-path="url(#i)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1285"
-       style="stroke-width:0.364975">
-      <path
-         d="m 151.639,627.639 h 18.68 v 18.68 h -18.68 z"
-         fill="#ffffff"
-         id="path1281"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 152.639,628.639 h 16.68 v 16.68 h -16.68 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1283" />
-    </g>
-    <g
-       clip-path="url(#j)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1291"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,158.767,635.236)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1289"><tspan
-           x="0"
-           y="0"
-           id="tspan1287"
-           style="stroke-width:0.364975">č</tspan></text>
-    </g>
-    <g
-       clip-path="url(#k)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1297"
-       style="stroke-width:0.364975">
-      <path
-         d="m 171.303,627.639 h 18.68 v 18.68 h -18.68 z"
-         fill="#ffffff"
-         id="path1293"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 172.303,628.639 h 16.68 v 16.68 h -16.68 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1295" />
-    </g>
-    <g
-       clip-path="url(#l)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1303"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,178.43,635.236)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1301"><tspan
-           x="0"
-           y="0"
-           id="tspan1299"
-           style="stroke-width:0.364975">ƛ</tspan></text>
-    </g>
-    <g
-       clip-path="url(#m)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1309"
-       style="stroke-width:0.364975">
-      <path
-         d="m 190.966,627.639 h 18.681 v 18.68 h -18.68 z"
-         fill="#ffffff"
-         id="path1305"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 191.966,628.639 h 16.681 v 16.68 h -16.68 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1307" />
-    </g>
-    <g
-       clip-path="url(#n)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1315"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,197.846,635.236)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1313"><tspan
-           x="0"
-           y="0"
-           id="tspan1311"
-           style="stroke-width:0.364975">ŋ</tspan></text>
-    </g>
-    <g
-       clip-path="url(#o)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1321"
-       style="stroke-width:0.364975">
-      <path
-         d="m 210.63,627.639 h 18.681 v 18.68 h -18.68 z"
-         fill="#ffffff"
-         id="path1317"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 211.63,628.639 h 16.681 v 16.68 h -16.68 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1319" />
-    </g>
-    <g
-       clip-path="url(#p)"
-       font-weight="400"
-       font-size="8.849px"
-       font-family="'Arial Unicode MS'"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1327"
-       style="stroke-width:0.364975">
-      <text
-         transform="scale(1,-1)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.364975"
-         x="217.63499"
-         y="-635.23602"
-         id="text1325"><tspan
-           x="217.63499"
-           y="-635.23602"
-           id="tspan1323"
-           style="stroke-width:0.364975">x̌</tspan></text>
-    </g>
-    <g
-       clip-path="url(#q)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1333"
-       style="stroke-width:0.364975">
-      <path
-         d="m 230.294,627.639 h 18.68 v 18.68 h -18.68 z"
-         fill="#ffffff"
-         id="path1329"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 231.294,628.639 h 16.68 v 16.68 h -16.68 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1331" />
-    </g>
-    <g
-       clip-path="url(#r)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1339"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,238.06,635.236)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1337"><tspan
-           x="0"
-           y="0"
-           id="tspan1335"
-           style="stroke-width:0.364975">ɫ</tspan></text>
-    </g>
-    <g
-       clip-path="url(#s)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1345"
-       style="stroke-width:0.364975">
-      <path
-         d="m 249.958,627.639 h 18.68 v 18.68 h -18.68 z"
-         fill="#ffffff"
-         id="path1341"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 250.958,628.639 h 16.68 v 16.68 h -16.68 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1343" />
-    </g>
-    <g
-       clip-path="url(#t)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1351"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,257.246,635.236)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1349"><tspan
-           x="0"
-           y="0"
-           id="tspan1347"
-           style="stroke-width:0.364975">ʔ</tspan></text>
-    </g>
-    <g
-       clip-path="url(#u)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1357"
-       style="stroke-width:0.364975">
-      <path
-         d="m 269.622,627.639 h 18.68 v 18.68 h -18.68 z"
-         fill="#ffffff"
-         id="path1353"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 270.622,628.639 h 16.68 v 16.68 h -16.68 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1355" />
-    </g>
-    <g
-       clip-path="url(#v)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1363"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,277.193,635.236)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1361"><tspan
-           x="0"
-           y="0"
-           id="tspan1359"
-           style="stroke-width:0.364975">°</tspan></text>
-    </g>
-    <g
-       clip-path="url(#w)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1369"
-       style="stroke-width:0.364975">
-      <path
-         d="m 289.286,627.639 h 18.68 v 18.68 h -18.68 z"
-         fill="#ffffff"
-         id="path1365"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 290.286,628.639 h 16.68 v 16.68 h -16.68 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1367" />
-    </g>
-    <g
-       clip-path="url(#x)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1375"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,297.153,635.236)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1373"><tspan
-           x="0"
-           y="0"
-           id="tspan1371"
-           style="stroke-width:0.364975">-</tspan></text>
-    </g>
-    <g
-       clip-path="url(#y)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1381"
-       style="stroke-width:0.364975">
-      <path
-         d="m 308.95,627.639 h 18.68 v 18.68 h -18.68 z"
-         fill="#ffffff"
-         id="path1377"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 309.95,628.639 h 16.68 v 16.68 h -16.68 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1379" />
-    </g>
-    <g
-       clip-path="url(#z)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1387"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,315.706,635.236)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1385"><tspan
-           x="0"
-           y="0"
-           id="tspan1383"
-           style="stroke-width:0.364975">=</tspan></text>
-    </g>
-    <g
-       clip-path="url(#A)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1393"
-       style="stroke-width:0.364975">
-      <path
-         d="m 318.781,607.975 h 18.681 v 18.68 h -18.68 z"
-         fill="#ffffff"
-         id="path1389"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 319.781,608.975 h 16.681 v 16.68 h -16.68 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1391" />
-    </g>
-    <g
-       clip-path="url(#B)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1399"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,327.139,615.572)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1397"><tspan
-           x="0"
-           y="0"
-           id="tspan1395"
-           style="stroke-width:0.364975">’</tspan></text>
-    </g>
-    <g
-       clip-path="url(#C)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1405"
-       style="stroke-width:0.364975">
-      <path
-         d="m 299.118,607.975 h 18.68 v 18.68 h -18.68 z"
-         fill="#ffffff"
-         id="path1401"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 300.118,608.975 h 16.68 v 16.68 h -16.68 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1403" />
-    </g>
-    <g
-       clip-path="url(#D)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1411"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,307.475,615.572)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1409"><tspan
-           x="0"
-           y="0"
-           id="tspan1407"
-           style="stroke-width:0.364975">‘</tspan></text>
-    </g>
-    <g
-       clip-path="url(#E)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1417"
-       style="stroke-width:0.364975">
-      <path
-         d="m 279.454,607.975 h 18.68 v 18.68 h -18.68 z"
-         fill="#ffffff"
-         id="path1413"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 280.454,608.975 h 16.68 v 16.68 h -16.68 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1415" />
-    </g>
-    <g
-       clip-path="url(#F)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.672559,624.72204)"
-       id="g1423"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,286.334,615.572)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1421"><tspan
-           x="0"
-           y="0"
-           id="tspan1419"
-           style="stroke-width:0.364975">p</tspan></text>
-    </g>
-    <g
-       clip-path="url(#G)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1429"
-       style="stroke-width:0.364975">
-      <path
-         d="m 259.79,607.975 h 18.68 v 18.68 h -18.68 z"
-         fill="#ffffff"
-         id="path1425"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 260.79,608.975 h 16.68 v 16.68 h -16.68 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1427" />
-    </g>
-    <g
-       clip-path="url(#H)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1435"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,266.67,615.572)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1433"><tspan
-           x="0"
-           y="0"
-           id="tspan1431"
-           style="stroke-width:0.364975">o</tspan></text>
-    </g>
-    <g
-       clip-path="url(#I)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1441"
-       style="stroke-width:0.364975">
-      <path
-         d="m 240.126,607.975 h 18.68 v 18.68 h -18.68 z"
-         fill="#ffffff"
-         id="path1437"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 241.126,608.975 h 16.68 v 16.68 h -16.68 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1439" />
-    </g>
-    <g
-       clip-path="url(#J)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-69.114662,624.72204)"
-       id="g1447"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,247.006,615.572)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1445"><tspan
-           x="0"
-           y="0"
-           id="tspan1443"
-           style="stroke-width:0.364975">i</tspan></text>
-    </g>
-    <g
-       clip-path="url(#K)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1453"
-       style="stroke-width:0.364975">
-      <path
-         d="m 220.462,607.975 h 18.68 v 18.68 h -18.68 z"
-         fill="#ffffff"
-         id="path1449"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 221.462,608.975 h 16.68 v 16.68 h -16.68 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1451" />
-    </g>
-    <g
-       clip-path="url(#L)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-71.958602,624.72204)"
-       id="g1459"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,228.82,615.572)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1457"><tspan
-           x="0"
-           y="0"
-           id="tspan1455"
-           style="stroke-width:0.364975">u</tspan></text>
-    </g>
-    <g
-       clip-path="url(#M)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1465"
-       style="stroke-width:0.364975">
-      <path
-         d="m 200.798,607.975 h 18.681 v 18.68 h -18.68 z"
-         fill="#ffffff"
-         id="path1461"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 201.798,608.975 h 16.681 v 16.68 h -16.68 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1463" />
-    </g>
-    <g
-       clip-path="url(#N)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1471"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,207.926,615.572)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1469"><tspan
-           x="0"
-           y="0"
-           id="tspan1467"
-           style="stroke-width:0.364975">y</tspan></text>
-    </g>
-    <g
-       clip-path="url(#O)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1477"
-       style="stroke-width:0.364975">
-      <path
-         d="m 181.135,607.975 h 18.68 v 18.68 h -18.68 z"
-         fill="#ffffff"
-         id="path1473"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 182.135,608.975 h 16.68 v 16.68 h -16.68 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1475" />
-    </g>
-    <g
-       clip-path="url(#P)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1483"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,189.246,615.572)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1481"><tspan
-           x="0"
-           y="0"
-           id="tspan1479"
-           style="stroke-width:0.364975">t</tspan></text>
-    </g>
-    <g
-       clip-path="url(#Q)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1489"
-       style="stroke-width:0.364975">
-      <path
-         d="m 161.47,607.975 h 18.681 v 18.68 h -18.68 z"
-         fill="#ffffff"
-         id="path1485"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 162.47,608.975 h 16.681 v 16.68 h -16.68 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1487" />
-    </g>
-    <g
-       clip-path="url(#R)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1495"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,169.338,615.572)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1493"><tspan
-           x="0"
-           y="0"
-           id="tspan1491"
-           style="stroke-width:0.364975">r</tspan></text>
-    </g>
-    <g
-       clip-path="url(#S)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1501"
-       style="stroke-width:0.364975">
-      <path
-         d="m 141.807,607.975 h 18.68 v 18.68 h -18.68 z"
-         fill="#ffffff"
-         id="path1497"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 142.807,608.975 h 16.68 v 16.68 h -16.68 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1499" />
-    </g>
-    <g
-       clip-path="url(#T)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1507"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,148.686,615.572)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1505"><tspan
-           x="0"
-           y="0"
-           id="tspan1503"
-           style="stroke-width:0.364975">e</tspan></text>
-    </g>
-    <g
-       clip-path="url(#U)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1513"
-       style="stroke-width:0.364975">
-      <path
-         d="m 122.143,607.975 h 18.68 v 18.68 h -18.68 z"
-         fill="#ffffff"
-         id="path1509"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 123.143,608.975 h 16.68 v 16.68 h -16.68 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1511" />
-    </g>
-    <g
-       clip-path="url(#V)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1519"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,128.288,615.572)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1517"><tspan
-           x="0"
-           y="0"
-           id="tspan1515"
-           style="stroke-width:0.364975">w</tspan></text>
-    </g>
-    <g
-       clip-path="url(#W)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1525"
-       style="stroke-width:0.364975">
-      <path
-         d="m 102.479,607.975 h 18.68 v 18.68 h -18.68 z"
-         fill="#ffffff"
-         id="path1521"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 103.479,608.975 h 16.68 v 16.68 h -16.68 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1523" />
-    </g>
-    <g
-       clip-path="url(#X)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1531"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,109.359,615.572)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1529"><tspan
-           x="0"
-           y="0"
-           id="tspan1527"
-           style="stroke-width:0.364975">q</tspan></text>
-    </g>
-    <g
-       clip-path="url(#Y)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1537"
-       style="stroke-width:0.364975">
-      <path
-         d="m 107.395,588.31 h 18.68 v 18.682 h -18.68 z"
-         fill="#ffffff"
-         id="path1533"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 108.395,589.31 h 16.68 v 16.682 h -16.68 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1535" />
-    </g>
-    <g
-       clip-path="url(#Z)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1543"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,114.275,595.908)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1541"><tspan
-           x="0"
-           y="0"
-           id="tspan1539"
-           style="stroke-width:0.364975">a</tspan></text>
-    </g>
-    <g
-       clip-path="url(#aa)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1549"
-       style="stroke-width:0.364975">
-      <path
-         d="m 127.059,588.31 h 18.68 v 18.682 h -18.68 z"
-         fill="#ffffff"
-         id="path1545"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 128.059,589.31 h 16.68 v 16.682 h -16.68 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1547" />
-    </g>
-    <g
-       clip-path="url(#ab)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1555"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,134.187,595.908)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1553"><tspan
-           x="0"
-           y="0"
-           id="tspan1551"
-           style="stroke-width:0.364975">s</tspan></text>
-    </g>
-    <g
-       clip-path="url(#ac)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1561"
-       style="stroke-width:0.364975">
-      <path
-         d="m 146.723,588.31 h 18.68 v 18.682 h -18.68 z"
-         fill="#ffffff"
-         id="path1557"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 147.723,589.31 h 16.68 v 16.682 h -16.68 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1559" />
-    </g>
-    <g
-       clip-path="url(#ad)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1567"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,153.602,595.908)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1565"><tspan
-           x="0"
-           y="0"
-           id="tspan1563"
-           style="stroke-width:0.364975">d</tspan></text>
-    </g>
-    <g
-       clip-path="url(#ae)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1573"
-       style="stroke-width:0.364975">
-      <path
-         d="m 166.387,588.31 h 18.68 v 18.682 h -18.68 z"
-         fill="#ffffff"
-         id="path1569"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 167.387,589.31 h 16.68 v 16.682 h -16.68 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1571" />
-    </g>
-    <g
-       clip-path="url(#af)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1579"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,174.498,595.908)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1577"><tspan
-           x="0"
-           y="0"
-           id="tspan1575"
-           style="stroke-width:0.364975">f</tspan></text>
-    </g>
-    <g
-       clip-path="url(#ag)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1585"
-       style="stroke-width:0.364975">
-      <path
-         d="m 186.05,588.31 h 18.681 v 18.682 h -18.68 z"
-         fill="#ffffff"
-         id="path1581"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 187.05,589.31 h 16.681 v 16.682 h -16.68 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1583" />
-    </g>
-    <g
-       clip-path="url(#ah)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1591"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,192.93,595.908)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1589"><tspan
-           x="0"
-           y="0"
-           id="tspan1587"
-           style="stroke-width:0.364975">g</tspan></text>
-    </g>
-    <g
-       clip-path="url(#ai)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1597"
-       style="stroke-width:0.364975">
-      <path
-         d="m 205.714,588.31 h 18.681 v 18.682 h -18.68 z"
-         fill="#ffffff"
-         id="path1593"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 206.714,589.31 h 16.681 v 16.682 h -16.68 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1595" />
-    </g>
-    <g
-       clip-path="url(#aj)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1603"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,212.594,595.908)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1601"><tspan
-           x="0"
-           y="0"
-           id="tspan1599"
-           style="stroke-width:0.364975">h</tspan></text>
-    </g>
-    <g
-       clip-path="url(#ak)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1609"
-       style="stroke-width:0.364975">
-      <path
-         d="m 225.378,588.31 h 18.68 v 18.682 h -18.68 z"
-         fill="#ffffff"
-         id="path1605"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 226.378,589.31 h 16.68 v 16.682 h -16.68 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1607" />
-    </g>
-    <g
-       clip-path="url(#al)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1615"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,233.735,595.908)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1613"><tspan
-           x="0"
-           y="0"
-           id="tspan1611"
-           style="stroke-width:0.364975">j</tspan></text>
-    </g>
-    <g
-       clip-path="url(#am)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1621"
-       style="stroke-width:0.364975">
-      <path
-         d="m 245.042,588.31 h 18.68 v 18.682 h -18.68 z"
-         fill="#ffffff"
-         id="path1617"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 246.042,589.31 h 16.68 v 16.682 h -16.68 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1619" />
-    </g>
-    <g
-       clip-path="url(#an)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1627"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,252.17,595.908)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1625"><tspan
-           x="0"
-           y="0"
-           id="tspan1623"
-           style="stroke-width:0.364975">k</tspan></text>
-    </g>
-    <g
-       clip-path="url(#ao)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1633"
-       style="stroke-width:0.364975">
-      <path
-         d="m 264.706,588.31 h 18.68 v 18.682 h -18.68 z"
-         fill="#ffffff"
-         id="path1629"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 265.706,589.31 h 16.68 v 16.682 h -16.68 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1631" />
-    </g>
-    <g
-       clip-path="url(#ap)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1639"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,273.063,595.908)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1637"><tspan
-           x="0"
-           y="0"
-           id="tspan1635"
-           style="stroke-width:0.364975">l</tspan></text>
-    </g>
-    <g
-       clip-path="url(#aq)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1645"
-       style="stroke-width:0.364975">
-      <path
-         d="m 284.37,588.31 h 18.68 v 18.682 h -18.68 z"
-         fill="#ffffff"
-         id="path1641"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 285.37,589.31 h 16.68 v 16.682 h -16.68 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1643" />
-    </g>
-    <g
-       clip-path="url(#ar)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1651"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,292.48,595.908)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1649"><tspan
-           x="0"
-           y="0"
-           id="tspan1647"
-           style="stroke-width:0.364975">·</tspan></text>
-    </g>
-    <g
-       clip-path="url(#as)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1657"
-       style="stroke-width:0.364975">
-      <path
-         d="m 304.034,588.31 h 18.68 v 18.682 h -18.68 z"
-         fill="#ffffff"
-         id="path1653"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 305.034,589.31 h 16.68 v 16.682 h -16.68 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1655" />
-    </g>
-    <g
-       clip-path="url(#at)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-75.115006,627.08388)"
-       id="g1663"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,315.8,596.926)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1661"><tspan
-           x="0"
-           y="0"
-           id="tspan1659"
-           style="stroke-width:0.364975">̓</tspan></text>
-    </g>
-    <g
-       clip-path="url(#au)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1669"
-       style="stroke-width:0.364975">
-      <path
-         d="m 294.202,568.647 h 18.68 v 18.68 h -18.68 z"
-         fill="#ffffff"
-         id="path1665"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 295.202,569.647 h 16.68 v 16.68 h -16.68 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1667" />
-    </g>
-    <g
-       clip-path="url(#av)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1675"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,302.313,576.245)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1673"><tspan
-           x="0"
-           y="0"
-           id="tspan1671"
-           style="stroke-width:0.364975">/</tspan></text>
-    </g>
-    <g
-       clip-path="url(#aw)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1681"
-       style="stroke-width:0.364975">
-      <path
-         d="m 274.538,568.647 h 18.68 v 18.68 h -18.68 z"
-         fill="#ffffff"
-         id="path1677"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 275.538,569.647 h 16.68 v 16.68 h -16.68 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1679" />
-    </g>
-    <g
-       clip-path="url(#ax)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1687"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,282.649,576.245)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1685"><tspan
-           x="0"
-           y="0"
-           id="tspan1683"
-           style="stroke-width:0.364975">.</tspan></text>
-    </g>
-    <g
-       clip-path="url(#ay)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1693"
-       style="stroke-width:0.364975">
-      <path
-         d="m 254.874,568.647 h 18.68 v 18.68 h -18.68 z"
-         fill="#ffffff"
-         id="path1689"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 255.874,569.647 h 16.68 v 16.68 h -16.68 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1691" />
-    </g>
-    <g
-       clip-path="url(#az)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1699"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,262.985,576.245)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1697"><tspan
-           x="0"
-           y="0"
-           id="tspan1695"
-           style="stroke-width:0.364975">,</tspan></text>
-    </g>
-    <g
-       clip-path="url(#aA)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1705"
-       style="stroke-width:0.364975">
-      <path
-         d="m 235.21,568.647 h 18.68 v 18.68 h -18.68 z"
-         fill="#ffffff"
-         id="path1701"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 236.21,569.647 h 16.68 v 16.68 h -16.68 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1703" />
-    </g>
-    <g
-       clip-path="url(#aB)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1711"
-       style="stroke-width:0.364975">
-      <text
-         transform="scale(1,-1)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="9px"
-         font-family="'Arial Unicode MS'"
-         x="240.797"
-         y="-576.245"
-         id="text1709"><tspan
-           x="240.797"
-           y="-576.245"
-           id="tspan1707"
-           style="stroke-width:0.364975">m</tspan></text>
-    </g>
-    <g
-       clip-path="url(#aC)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1717"
-       style="stroke-width:0.364975">
-      <path
-         d="m 215.546,568.647 h 18.68 v 18.68 h -18.68 z"
-         fill="#ffffff"
-         id="path1713"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 216.546,569.647 h 16.68 v 16.68 h -16.68 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1715" />
-    </g>
-    <g
-       clip-path="url(#aD)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1723"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,222.426,576.245)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1721"><tspan
-           x="0"
-           y="0"
-           id="tspan1719"
-           style="stroke-width:0.364975">n</tspan></text>
-    </g>
-    <g
-       clip-path="url(#aE)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1729"
-       style="stroke-width:0.364975">
-      <path
-         d="m 195.882,568.647 h 18.681 v 18.68 h -18.68 z"
-         fill="#ffffff"
-         id="path1725"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 196.882,569.647 h 16.681 v 16.68 h -16.68 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1727" />
-    </g>
-    <g
-       clip-path="url(#aF)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1735"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,202.762,576.245)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1733"><tspan
-           x="0"
-           y="0"
-           id="tspan1731"
-           style="stroke-width:0.364975">b</tspan></text>
-    </g>
-    <g
-       clip-path="url(#aG)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1741"
-       style="stroke-width:0.364975">
-      <path
-         d="m 176.219,568.647 h 18.68 v 18.68 h -18.68 z"
-         fill="#ffffff"
-         id="path1737"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 177.219,569.647 h 16.68 v 16.68 h -16.68 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1739" />
-    </g>
-    <g
-       clip-path="url(#aH)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1747"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,183.347,576.245)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1745"><tspan
-           x="0"
-           y="0"
-           id="tspan1743"
-           style="stroke-width:0.364975">v</tspan></text>
-    </g>
-    <g
-       clip-path="url(#aI)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1753"
-       style="stroke-width:0.364975">
-      <path
-         d="m 156.555,568.647 h 18.68 v 18.68 h -18.68 z"
-         fill="#ffffff"
-         id="path1749"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 157.555,569.647 h 16.68 v 16.68 h -16.68 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1751" />
-    </g>
-    <g
-       clip-path="url(#aJ)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1759"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,163.683,576.245)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1757"><tspan
-           x="0"
-           y="0"
-           id="tspan1755"
-           style="stroke-width:0.364975">c</tspan></text>
-    </g>
-    <g
-       clip-path="url(#aK)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1765"
-       style="stroke-width:0.364975">
-      <path
-         d="m 136.89,568.647 h 18.681 v 18.68 h -18.68 z"
-         fill="#ffffff"
-         id="path1761"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 137.89,569.647 h 16.681 v 16.68 h -16.68 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1763" />
-    </g>
-    <g
-       clip-path="url(#aL)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1771"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,144.019,576.245)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1769"><tspan
-           x="0"
-           y="0"
-           id="tspan1767"
-           style="stroke-width:0.364975">x</tspan></text>
-    </g>
-    <g
-       clip-path="url(#aM)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1777"
-       style="stroke-width:0.364975">
-      <path
-         d="m 117.227,568.647 h 18.68 v 18.68 h -18.68 z"
-         fill="#ffffff"
-         id="path1773"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 118.227,569.647 h 16.68 v 16.68 h -16.68 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1775" />
-    </g>
-    <g
-       clip-path="url(#aN)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1783"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,124.355,576.245)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1781"><tspan
-           x="0"
-           y="0"
-           id="tspan1779"
-           style="stroke-width:0.364975">z</tspan></text>
-    </g>
-    <g
-       clip-path="url(#aO)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1789"
-       style="stroke-width:0.364975">
-      <path
-         d="m 72.983,607.975 h 28.513 v 18.68 H 72.983 Z"
-         fill="#ffffff"
-         id="path1785"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 73.983,608.975 h 26.513 v 16.68 H 73.983 Z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1787" />
-    </g>
-    <g
-       clip-path="url(#aP)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1795"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,84.085,615.572)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1793"><tspan
-           x="0"
-           y="0"
-           id="tspan1791"
-           style="stroke-width:0.364975">⇥</tspan></text>
-    </g>
-    <g
-       clip-path="url(#aQ)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1801"
-       style="stroke-width:0.364975">
-      <path
-         d="m 72.983,588.31 h 33.429 v 18.682 H 72.983 Z"
-         fill="#ffffff"
-         id="path1797"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 73.983,589.31 h 31.429 v 16.682 H 73.983 Z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1799" />
-    </g>
-    <g
-       clip-path="url(#aR)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1807"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,86.543,595.908)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1805"><tspan
-           x="0"
-           y="0"
-           id="tspan1803"
-           style="stroke-width:0.364975">⇪</tspan></text>
-    </g>
-    <g
-       clip-path="url(#aS)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1813"
-       style="stroke-width:0.364975">
-      <path
-         d="m 72.983,568.647 h 43.26 v 18.68 h -43.26 z"
-         fill="#ffffff"
-         id="path1809"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 73.983,569.647 h 41.26 v 16.68 h -41.26 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1811" />
-    </g>
-    <g
-       clip-path="url(#aT)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1819"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,91.46,576.245)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1817"><tspan
-           x="0"
-           y="0"
-           id="tspan1815"
-           style="stroke-width:0.364975">⇧</tspan></text>
-    </g>
-    <g
-       clip-path="url(#aU)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1825"
-       style="stroke-width:0.364975">
-      <path
-         d="m 313.865,568.647 h 48.177 v 18.68 h -48.176 z"
-         fill="#ffffff"
-         id="path1821"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 314.865,569.647 h 46.177 v 16.68 h -46.176 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1823" />
-    </g>
-    <g
-       clip-path="url(#aV)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1831"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,334.8,576.245)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1829"><tspan
-           x="0"
-           y="0"
-           id="tspan1827"
-           style="stroke-width:0.364975">⇧</tspan></text>
-    </g>
-    <g
-       clip-path="url(#aW)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1837"
-       style="stroke-width:0.364975">
-      <path
-         d="M 72.983,548.983 H 96.58 v 18.68 H 72.983 Z"
-         fill="#ffffff"
-         id="path1833"
-         style="stroke-width:0.374265" />
-      <path
-         d="M 73.983,549.983 H 95.58 v 16.68 H 73.983 Z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1835" />
-    </g>
-    <g
-       clip-path="url(#aX)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1843"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,82.353,556.58)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1841"><tspan
-           x="0"
-           y="0"
-           id="tspan1839"
-           style="stroke-width:0.364975">⌃</tspan></text>
-    </g>
-    <g
-       clip-path="url(#aY)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1849"
-       style="stroke-width:0.364975">
-      <path
-         d="m 97.563,548.983 h 23.597 v 18.68 H 97.563 Z"
-         fill="#ffffff"
-         id="path1845"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 98.563,549.983 h 21.597 v 16.68 H 98.563 Z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1847" />
-    </g>
-    <g
-       clip-path="url(#aZ)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1855"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,104.937,556.58)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1853"><tspan
-           x="0"
-           y="0"
-           id="tspan1851"
-           style="stroke-width:0.364975">⌥</tspan></text>
-    </g>
-    <g
-       clip-path="url(#ba)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1861"
-       style="stroke-width:0.364975">
-      <path
-         d="m 122.143,548.983 h 23.597 v 18.68 h -23.597 z"
-         fill="#ffffff"
-         id="path1857"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 123.143,549.983 h 21.597 v 16.68 h -21.597 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1859" />
-    </g>
-    <g
-       clip-path="url(#bb)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1867"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,130.491,556.58)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1865"><tspan
-           x="0"
-           y="0"
-           id="tspan1863"
-           style="stroke-width:0.364975">⌘</tspan></text>
-    </g>
-    <g
-       clip-path="url(#bc)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1873"
-       style="stroke-width:0.364975">
-      <path
-         d="m 289.286,548.983 h 23.596 v 18.68 h -23.596 z"
-         fill="#ffffff"
-         id="path1869"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 290.286,549.983 h 21.596 v 16.68 h -21.596 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1871" />
-    </g>
-    <g
-       clip-path="url(#bd)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1879"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,297.634,556.58)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1877"><tspan
-           x="0"
-           y="0"
-           id="tspan1875"
-           style="stroke-width:0.364975">⌘</tspan></text>
-    </g>
-    <g
-       clip-path="url(#be)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1885"
-       style="stroke-width:0.364975">
-      <path
-         d="m 313.865,548.983 h 23.597 v 18.68 h -23.596 z"
-         fill="#ffffff"
-         id="path1881"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 314.865,549.983 h 21.597 v 16.68 h -21.597 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1883" />
-    </g>
-    <g
-       clip-path="url(#bf)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1891"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,321.24,556.58)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1889"><tspan
-           x="0"
-           y="0"
-           id="tspan1887"
-           style="stroke-width:0.364975">⌥</tspan></text>
-    </g>
-    <g
-       clip-path="url(#bg)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1897"
-       style="stroke-width:0.364975">
-      <path
-         d="m 338.445,548.983 h 23.597 v 18.68 h -23.597 z"
-         fill="#ffffff"
-         id="path1893"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 339.445,549.983 h 21.597 v 16.68 h -21.597 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1895" />
-    </g>
-    <g
-       clip-path="url(#bh)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1903"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,347.816,556.58)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1901"><tspan
-           x="0"
-           y="0"
-           id="tspan1899"
-           style="stroke-width:0.364975">⌃</tspan></text>
-    </g>
-    <g
-       clip-path="url(#bi)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1909"
-       style="stroke-width:0.364975">
-      <path
-         d="m 328.613,627.639 h 33.429 v 18.68 h -33.429 z"
-         fill="#ffffff"
-         id="path1905"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 329.613,628.639 h 31.429 v 16.68 h -31.429 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1907" />
-    </g>
-    <g
-       clip-path="url(#bj)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1915"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,340.903,635.236)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1913"><tspan
-           x="0"
-           y="0"
-           id="tspan1911"
-           style="stroke-width:0.364975">⌫</tspan></text>
-    </g>
-    <g
-       clip-path="url(#bk)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1921"
-       style="stroke-width:0.364975">
-      <path
-         d="m 338.445,607.975 h 23.597 v 18.68 h -23.597 z"
-         fill="#ffffff"
-         id="path1917"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 339.445,608.975 h 21.597 v 16.68 h -21.597 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1919" />
-    </g>
-    <g
-       clip-path="url(#bl)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1927"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,349.014,615.572)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1925"><tspan
-           x="0"
-           y="0"
-           id="tspan1923"
-           style="stroke-width:0.364975">\</tspan></text>
-    </g>
-    <g
-       clip-path="url(#bm)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1933"
-       style="stroke-width:0.364975">
-      <path
-         d="m 323.697,588.31 h 38.345 v 18.682 h -38.344 z"
-         fill="#ffffff"
-         id="path1929"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 324.697,589.31 h 36.345 v 16.682 h -36.344 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1931" />
-    </g>
-    <g
-       clip-path="url(#bn)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1939"
-       style="stroke-width:0.364975">
-      <text
-         transform="matrix(1,0,0,-1,339.716,595.908)"
-         style="-inkscape-font-specification:ArialUnicodeMS;stroke-width:0.374265"
-         font-weight="400"
-         font-size="8.849px"
-         font-family="'Arial Unicode MS'"
-         id="text1937"><tspan
-           x="0"
-           y="0"
-           id="tspan1935"
-           style="stroke-width:0.364975">↩</tspan></text>
-    </g>
-    <g
-       clip-path="url(#bo)"
-       transform="matrix(0.96658468,0,0,-0.96658468,-70.54425,624.72204)"
-       id="g1945"
-       style="stroke-width:0.364975">
-      <path
-         d="m 146.723,548.983 h 141.58 v 18.68 h -141.58 z"
-         fill="#ffffff"
-         id="path1941"
-         style="stroke-width:0.374265" />
-      <path
-         d="m 147.723,549.983 h 139.58 v 16.68 h -139.58 z"
-         fill="none"
-         stroke="#000000"
-         stroke-width="0.729945"
-         stroke-miterlimit="10"
-         id="path1943" />
+  <g stroke-width=".365">
+    <g clip-path="url(#a)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M72.983 627.639h18.68v18.68h-18.68z" fill="#fff"/>
+      <path d="M73.983 628.639h16.68v16.68h-16.68z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#b)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 80.85 635.236)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">`</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#c)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M92.647 627.639h18.68v18.68h-18.68z" fill="#fff"/>
+      <path d="M93.647 628.639h16.68v16.68h-16.68z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#d)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 99.527 635.236)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">&#x1E25;</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#e)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M112.31 627.639h18.682v18.68H112.31z" fill="#fff"/>
+      <path d="M113.31 628.639h16.682v16.68H113.31z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#f)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 119.93 635.236)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">&#x2B7;</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#g)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M131.975 627.639h18.68v18.68h-18.68z" fill="#fff"/>
+      <path d="M132.975 628.639h16.68v16.68h-16.68z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#h)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 139.103 635.236)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">&#x161;</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#i)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M151.639 627.639h18.68v18.68h-18.68z" fill="#fff"/>
+      <path d="M152.639 628.639h16.68v16.68h-16.68z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#j)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 158.767 635.236)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">&#x10D;</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#k)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M171.303 627.639h18.68v18.68h-18.68z" fill="#fff"/>
+      <path d="M172.303 628.639h16.68v16.68h-16.68z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#l)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 178.43 635.236)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">&#x19B;</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#m)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M190.966 627.639h18.681v18.68h-18.68z" fill="#fff"/>
+      <path d="M191.966 628.639h16.681v16.68h-16.68z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#n)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 197.846 635.236)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">&#x14B;</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#o)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M210.63 627.639h18.681v18.68h-18.68z" fill="#fff"/>
+      <path d="M211.63 628.639h16.681v16.68h-16.68z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#p)" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="scale(1 -1)" style="-inkscape-font-specification:ArialUnicodeMS" x="217.635" y="-635.236">
+        <tspan x="217.635" y="-635.236">x&#x30C;</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#q)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M230.294 627.639h18.68v18.68h-18.68z" fill="#fff"/>
+      <path d="M231.294 628.639h16.68v16.68h-16.68z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#r)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 238.06 635.236)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">&#x26B;</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#s)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M249.958 627.639h18.68v18.68h-18.68z" fill="#fff"/>
+      <path d="M250.958 628.639h16.68v16.68h-16.68z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#t)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 257.246 635.236)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">&#x294;</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#u)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M269.622 627.639h18.68v18.68h-18.68z" fill="#fff"/>
+      <path d="M270.622 628.639h16.68v16.68h-16.68z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#v)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 277.193 635.236)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">&#xB0;</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#w)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M289.286 627.639h18.68v18.68h-18.68z" fill="#fff"/>
+      <path d="M290.286 628.639h16.68v16.68h-16.68z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#x)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 297.153 635.236)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">-</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#y)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M308.95 627.639h18.68v18.68h-18.68z" fill="#fff"/>
+      <path d="M309.95 628.639h16.68v16.68h-16.68z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#z)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 315.706 635.236)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">=</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#A)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M318.781 607.975h18.681v18.68h-18.68z" fill="#fff"/>
+      <path d="M319.781 608.975h16.681v16.68h-16.68z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#B)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 327.139 615.572)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">&#x2019;</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#C)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M299.118 607.975h18.68v18.68h-18.68z" fill="#fff"/>
+      <path d="M300.118 608.975h16.68v16.68h-16.68z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#D)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 307.475 615.572)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">&#x2018;</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#E)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M279.454 607.975h18.68v18.68h-18.68z" fill="#fff"/>
+      <path d="M280.454 608.975h16.68v16.68h-16.68z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#F)" transform="matrix(.96658 0 0 -.96658 -70.673 624.722)">
+      <text transform="matrix(1 0 0 -1 286.334 615.572)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">p</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#G)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M259.79 607.975h18.68v18.68h-18.68z" fill="#fff"/>
+      <path d="M260.79 608.975h16.68v16.68h-16.68z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#H)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 266.67 615.572)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">o</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#I)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M240.126 607.975h18.68v18.68h-18.68z" fill="#fff"/>
+      <path d="M241.126 608.975h16.68v16.68h-16.68z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#J)" transform="matrix(.96658 0 0 -.96658 -69.115 624.722)">
+      <text transform="matrix(1 0 0 -1 247.006 615.572)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">i</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#K)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M220.462 607.975h18.68v18.68h-18.68z" fill="#fff"/>
+      <path d="M221.462 608.975h16.68v16.68h-16.68z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#L)" transform="matrix(.96658 0 0 -.96658 -71.959 624.722)">
+      <text transform="matrix(1 0 0 -1 228.82 615.572)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">u</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#M)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M200.798 607.975h18.681v18.68h-18.68z" fill="#fff"/>
+      <path d="M201.798 608.975h16.681v16.68h-16.68z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#N)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 207.926 615.572)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">y</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#O)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M181.135 607.975h18.68v18.68h-18.68z" fill="#fff"/>
+      <path d="M182.135 608.975h16.68v16.68h-16.68z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#P)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 189.246 615.572)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">t</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#Q)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M161.47 607.975h18.681v18.68h-18.68z" fill="#fff"/>
+      <path d="M162.47 608.975h16.681v16.68h-16.68z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#R)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 169.338 615.572)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">r</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#S)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M141.807 607.975h18.68v18.68h-18.68z" fill="#fff"/>
+      <path d="M142.807 608.975h16.68v16.68h-16.68z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#T)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 148.686 615.572)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">e</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#U)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M122.143 607.975h18.68v18.68h-18.68z" fill="#fff"/>
+      <path d="M123.143 608.975h16.68v16.68h-16.68z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#V)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 128.288 615.572)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">w</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#W)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M102.479 607.975h18.68v18.68h-18.68z" fill="#fff"/>
+      <path d="M103.479 608.975h16.68v16.68h-16.68z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#X)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 109.359 615.572)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">q</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#Y)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M107.395 588.31h18.68v18.682h-18.68z" fill="#fff"/>
+      <path d="M108.395 589.31h16.68v16.682h-16.68z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#Z)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 114.275 595.908)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">a</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#aa)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M127.059 588.31h18.68v18.682h-18.68z" fill="#fff"/>
+      <path d="M128.059 589.31h16.68v16.682h-16.68z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#ab)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 134.187 595.908)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">s</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#ac)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M146.723 588.31h18.68v18.682h-18.68z" fill="#fff"/>
+      <path d="M147.723 589.31h16.68v16.682h-16.68z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#ad)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 153.602 595.908)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">d</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#ae)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M166.387 588.31h18.68v18.682h-18.68z" fill="#fff"/>
+      <path d="M167.387 589.31h16.68v16.682h-16.68z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#af)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 174.498 595.908)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">f</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#ag)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M186.05 588.31h18.681v18.682h-18.68z" fill="#fff"/>
+      <path d="M187.05 589.31h16.681v16.682h-16.68z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#ah)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 192.93 595.908)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">g</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#ai)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M205.714 588.31h18.681v18.682h-18.68z" fill="#fff"/>
+      <path d="M206.714 589.31h16.681v16.682h-16.68z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#aj)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 212.594 595.908)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">h</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#ak)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M225.378 588.31h18.68v18.682h-18.68z" fill="#fff"/>
+      <path d="M226.378 589.31h16.68v16.682h-16.68z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#al)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 233.735 595.908)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">j</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#am)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M245.042 588.31h18.68v18.682h-18.68z" fill="#fff"/>
+      <path d="M246.042 589.31h16.68v16.682h-16.68z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#an)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 252.17 595.908)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">k</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#ao)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M264.706 588.31h18.68v18.682h-18.68z" fill="#fff"/>
+      <path d="M265.706 589.31h16.68v16.682h-16.68z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#ap)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 273.063 595.908)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">l</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#aq)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M284.37 588.31h18.68v18.682h-18.68z" fill="#fff"/>
+      <path d="M285.37 589.31h16.68v16.682h-16.68z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#ar)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 292.48 595.908)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">&#xB7;</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#as)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M304.034 588.31h18.68v18.682h-18.68z" fill="#fff"/>
+      <path d="M305.034 589.31h16.68v16.682h-16.68z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#at)" transform="matrix(.96658 0 0 -.96658 -75.115 627.084)">
+      <text transform="matrix(1 0 0 -1 315.8 596.926)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">&#x313;</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#au)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M294.202 568.647h18.68v18.68h-18.68z" fill="#fff"/>
+      <path d="M295.202 569.647h16.68v16.68h-16.68z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#av)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 302.313 576.245)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">/</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#aw)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M274.538 568.647h18.68v18.68h-18.68z" fill="#fff"/>
+      <path d="M275.538 569.647h16.68v16.68h-16.68z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#ax)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 282.649 576.245)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">.</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#ay)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M254.874 568.647h18.68v18.68h-18.68z" fill="#fff"/>
+      <path d="M255.874 569.647h16.68v16.68h-16.68z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#az)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 262.985 576.245)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">,</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#aA)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M235.21 568.647h18.68v18.68h-18.68z" fill="#fff"/>
+      <path d="M236.21 569.647h16.68v16.68h-16.68z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#aB)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="scale(1 -1)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="9" font-family="'Arial Unicode MS'" x="240.797" y="-576.245" stroke-width=".374">
+        <tspan x="240.797" y="-576.245" stroke-width=".365">m</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#aC)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M215.546 568.647h18.68v18.68h-18.68z" fill="#fff"/>
+      <path d="M216.546 569.647h16.68v16.68h-16.68z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#aD)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 222.426 576.245)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">n</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#aE)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M195.882 568.647h18.681v18.68h-18.68z" fill="#fff"/>
+      <path d="M196.882 569.647h16.681v16.68h-16.68z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#aF)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 202.762 576.245)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">b</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#aG)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M176.219 568.647h18.68v18.68h-18.68z" fill="#fff"/>
+      <path d="M177.219 569.647h16.68v16.68h-16.68z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#aH)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 183.347 576.245)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">v</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#aI)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M156.555 568.647h18.68v18.68h-18.68z" fill="#fff"/>
+      <path d="M157.555 569.647h16.68v16.68h-16.68z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#aJ)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 163.683 576.245)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">c</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#aK)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M136.89 568.647h18.681v18.68h-18.68z" fill="#fff"/>
+      <path d="M137.89 569.647h16.681v16.68h-16.68z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#aL)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 144.019 576.245)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">x</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#aM)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M117.227 568.647h18.68v18.68h-18.68z" fill="#fff"/>
+      <path d="M118.227 569.647h16.68v16.68h-16.68z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#aN)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 124.355 576.245)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">z</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#aO)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M72.983 607.975h28.513v18.68H72.983z" fill="#fff"/>
+      <path d="M73.983 608.975h26.513v16.68H73.983z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#aP)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 84.085 615.572)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">&#x21E5;</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#aQ)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M72.983 588.31h33.429v18.682H72.983z" fill="#fff"/>
+      <path d="M73.983 589.31h31.429v16.682H73.983z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#aR)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 86.543 595.908)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">&#x21EA;</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#aS)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M72.983 568.647h43.26v18.68h-43.26z" fill="#fff"/>
+      <path d="M73.983 569.647h41.26v16.68h-41.26z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#aT)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 91.46 576.245)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">&#x21E7;</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#aU)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M313.865 568.647h48.177v18.68h-48.176z" fill="#fff"/>
+      <path d="M314.865 569.647h46.177v16.68h-46.176z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#aV)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 334.8 576.245)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">&#x21E7;</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#aW)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M72.983 548.983H96.58v18.68H72.983z" fill="#fff"/>
+      <path d="M73.983 549.983H95.58v16.68H73.983z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#aX)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 82.353 556.58)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">&#x2303;</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#aY)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M97.563 548.983h23.597v18.68H97.563z" fill="#fff"/>
+      <path d="M98.563 549.983h21.597v16.68H98.563z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#aZ)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 104.937 556.58)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">&#x2325;</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#ba)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M122.143 548.983h23.597v18.68h-23.597z" fill="#fff"/>
+      <path d="M123.143 549.983h21.597v16.68h-21.597z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#bb)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 130.491 556.58)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">&#x2318;</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#bc)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M289.286 548.983h23.596v18.68h-23.596z" fill="#fff"/>
+      <path d="M290.286 549.983h21.596v16.68h-21.596z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#bd)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 297.634 556.58)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">&#x2318;</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#be)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M313.865 548.983h23.597v18.68h-23.596z" fill="#fff"/>
+      <path d="M314.865 549.983h21.597v16.68h-21.597z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#bf)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 321.24 556.58)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">&#x2325;</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#bg)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M338.445 548.983h23.597v18.68h-23.597z" fill="#fff"/>
+      <path d="M339.445 549.983h21.597v16.68h-21.597z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#bh)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 347.816 556.58)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">&#x2303;</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#bi)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M328.613 627.639h33.429v18.68h-33.429z" fill="#fff"/>
+      <path d="M329.613 628.639h31.429v16.68h-31.429z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#bj)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 340.903 635.236)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">&#x232B;</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#bk)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M338.445 607.975h23.597v18.68h-23.597z" fill="#fff"/>
+      <path d="M339.445 608.975h21.597v16.68h-21.597z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#bl)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 349.014 615.572)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">\</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#bm)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M323.697 588.31h38.345v18.682h-38.344z" fill="#fff"/>
+      <path d="M324.697 589.31h36.345v16.682h-36.344z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
+    </g>
+    <g clip-path="url(#bn)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <text transform="matrix(1 0 0 -1 339.716 595.908)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
+        <tspan x="0" y="0" stroke-width=".365">&#x21A9;</tspan>
+      </text>
+    </g>
+    <g clip-path="url(#bo)" transform="matrix(.96658 0 0 -.96658 -70.544 624.722)">
+      <path d="M146.723 548.983h141.58v18.68h-141.58z" fill="#fff"/>
+      <path d="M147.723 549.983h139.58v16.68h-139.58z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
     </g>
   </g>
 </svg>
