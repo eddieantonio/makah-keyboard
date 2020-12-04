@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 3.4.2.314 on 2020-12-03 at 13:41 (MST)-->
-<!--Last edited by Ukelele version 3.4.2.314 on 2020-12-03 at 16:29 (MST)-->
+<!--Last edited by Ukelele version 3.4.2.314 on 2020-12-04 at 08:55 (MST)-->
 <keyboard group="126" id="-24549" name="Qʷi·qʷi·diččaq (Makah)" maxout="2">
     <layouts>
         <layout first="0" last="17" mapSet="ANSI" modifiers="Modifiers"/>
@@ -64,10 +64,10 @@
             <key code="28" output="ɫ"/>
             <key code="29" output="°"/>
             <key code="30" output="’"/>
-            <key code="31" output="u"/>
-            <key code="32" output="i"/>
+            <key code="31" output="o"/>
+            <key code="32" output="u"/>
             <key code="33" output="‘"/>
-            <key code="34" output="o"/>
+            <key code="34" output="i"/>
             <key code="35" output="p"/>
             <key code="36" output="&#x000D;"/>
             <key code="37" output="l"/>
