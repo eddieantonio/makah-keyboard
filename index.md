@@ -29,4 +29,4 @@ implementation platform.
 
 ### Alt + Shift
 
-![Keyboard when alt and shift are pressed](./makah-alt-shift.svg.svg)
+![Keyboard when alt and shift are pressed](./makah-alt-shift.svg)
