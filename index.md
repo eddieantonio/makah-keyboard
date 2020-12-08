@@ -1,5 +1,6 @@
 ---
 title: Makah (Qʷi·qʷi·diččaq) keyboard layout
+date: "December 8, 2020"
 ---
 
 This is the keyboard layout:
