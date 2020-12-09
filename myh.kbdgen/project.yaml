@@ -1,6 +1,9 @@
 ---
-locales: {}
-author: ""
-email: ""
-copyright: ""
-organisation: ""
+locales:
+  en:
+    name: "Makah (Qʷi·qʷi·diččaq) project"
+    description: "A keyboard layout for the Makah language, based on the LanguageGeek layout"
+author: "Eddie Antonio Santos"
+email: "Eddie.Santos@nrc-cnrc.gc.ca"
+copyright: "MPL"
+organisation: "National Research Council Canada"
