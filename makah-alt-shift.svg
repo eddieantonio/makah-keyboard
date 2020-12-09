@@ -615,5 +615,10 @@
       <path d="M146.723 346.483h141.58v18.68h-141.58z" fill="#fff"/>
       <path d="M147.723 347.483h139.58v16.68h-139.58z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
     </g>
+    <g clip-path="url(#c)" transform="matrix(.96658 0 0 -.96658 -89.555 430.161)">
+      <text transform="scale(1 -1)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".133" x="99.403" y="-432.736">
+        <tspan x="99.403" y="-432.736">~</tspan>
+      </text>
+    </g>
   </g>
 </svg>

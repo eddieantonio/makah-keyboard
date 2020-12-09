@@ -636,4 +636,9 @@
   <text style="line-height:0" x="234.732" y="10.714" font-size="8.555" font-family="Arial Unicode MS" stroke-width=".265">
     <tspan x="234.732" y="10.714">&#xBB;</tspan>
   </text>
+  <g clip-path="url(#c)" transform="matrix(.96658 0 0 -.96658 -89.534 363.76)" stroke-width=".365">
+    <text transform="scale(1 -1)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".133" x="100.801" y="-365.236">
+      <tspan x="100.801" y="-365.236" stroke-width=".365">`</tspan>
+    </text>
+  </g>
 </svg>

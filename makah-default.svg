@@ -364,9 +364,9 @@
       <path d="M72.983 627.639h18.68v18.68h-18.68z" fill="#fff"/>
       <path d="M73.983 628.639h16.68v16.68h-16.68z" fill="none" stroke="#000" stroke-width=".73" stroke-miterlimit="10"/>
     </g>
-    <g clip-path="url(#b)" transform="matrix(.96658 0 0 -.96658 -51.538 624.719)">
+    <g clip-path="url(#b)" transform="matrix(.96658 0 0 -.96658 -52.192 624.719)">
       <text transform="matrix(1 0 0 -1 80.85 635.236)" style="-inkscape-font-specification:ArialUnicodeMS" font-weight="400" font-size="8.849" font-family="'Arial Unicode MS'" stroke-width=".374">
-        <tspan x="0" y="0" stroke-width=".365">`</tspan>
+        <tspan x="0" y="0" stroke-width=".365">1</tspan>
       </text>
     </g>
     <g clip-path="url(#c)" transform="matrix(.96658 0 0 -.96658 -89.55 624.719)">
