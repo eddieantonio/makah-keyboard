@@ -46,11 +46,11 @@ The following table lists keys and the output Unicode code points
 required for the Qʷi·qʷi·diččaq keyboard. The key sequences in this
 table **override** keys on an ANSI QWERTY keyboard layout.
 
-|Key sequence        | Preview            |Code point          |
+|Key sequence        | Preview            | Unicode output     |
 |--------------------|--------------------|--------------------|
 | \`                 | ḥ                  | U+1E25             |
 | ~                  | Ḥ                  | U+1E24             |
-| <AltGr\>\+\`       | \`                 | U+0060             |
+| <AltGr\>\+&grave;  | &grave;            | U+0060             |
 | <AltGr\>\+~        | ~                  | U+007E             |
 | 2                  | ʷ                  | U+02B7             |
 | <AltGr\>\+2        | 2                  | U+0032             |
@@ -87,16 +87,16 @@ table **override** keys on an ANSI QWERTY keyboard layout.
 | <AltGr\>\+\]       | \]                 | U+005D             |
 | <AltGr\>\+\}       | \}                 | U+007D             |
 | ;                  | ·                  | U+00B7             |
-| \'                  | ◌̓                  | U+0313             |
+| &apos;             | ◌̓                  | U+0313             |
 | <AltGr\>\+;        | ;                  | U+003B             |
-| <AltGr\>\+'        | '                  | U+0027             |
+| <AltGr\>\+&apos;   | &apos;             | U+0027             |
 
 A few notes:
 
- 1. The <kbd>\'</kbd> outputs a combining character. This character,
+ 1. The <kbd>&apos;</kbd> outputs a combining character. This character,
     U+0313 <span class="uniname">combing comma above</span>
     indicates a glottalized version of a modified consonant, e.g,
-    <kbd>k</kbd>+<kbd>'</kbd> = ⟨k̓⟩.
+    <kbd>k</kbd>+<kbd>&apos;</kbd> = ⟨k̓⟩.
  2. Both ⟨x̌⟩ and ⟨X̌⟩ do not have a single code point used to reprsent
     them; instead, a pair of code points is used, and thus, one
     keystroke should output two code points for both of these
