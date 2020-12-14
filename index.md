@@ -31,3 +31,56 @@ implementation platform.
 ### Alt + Shift
 
 ![Keyboard when alt and shift are pressed](./makah-alt-shift.svg)
+
+
+Remapped key sequences
+----------------------
+
+The following table lists key sequences and Unicode code points
+
+
+|Key sequence        |Output              |Code point          |
+|--------------------|--------------------|--------------------|
+| \`                 | ḥ                  | U+1E25             |
+| ~                  | Ḥ                  | U+1E24             |
+| <AltGr\>\+\`       | \`                 | U+0060             |
+| <AltGr\>\+~        | ~                  | U+007E             |
+| 2                  | ʷ                  | U+02B7             |
+| <AltGr\>\+2        | 2                  | U+0032             |
+| 3                  | š                  | U+0161             |
+| \#                 | Š                  | U+0160             |
+| <AltGr\>\+3        | 3                  | U+0033             |
+| <AltGr\>\+\#       | \#                 | U+0023             |
+| 4                  | č                  | U+010D             |
+| $                  | Č                  | U+010C             |
+| <AltGr\>\+4        | 4                  | U+0034             |
+| <AltGr\>\+$        | $                  | U+0024             |
+| 5                  | ƛ                  | U+019B             |
+| <AltGr\>\+5        | 5                  | U+0035             |
+| 6                  | ŋ                  | U+014B             |
+| <AltGr\>\+6        | 6                  | U+0036             |
+| 7                  | x̌                  | U+0078;U+030C      |
+| &                  | X̌                  | U+0058;U+030C      |
+| <AltGr\>\+7        | 7                  | U+0037             |
+| <AltGr\>\+&        | &                  | U+0026             |
+| 8                  | ɫ                  | U+026B             |
+| \*                 | Ɫ                  | U+2C62             |
+| <AltGr\>\+8        | 8                  | U+0038             |
+| <AltGr\>\+\*       | \*                 | U+002A             |
+| 9                  | Ɂ                  | U+0241             |
+| <AltGr\>\+9        | 9                  | U+0039             |
+| 0                  | °                  | U+00B0             |
+| <AltGr\>\+0        | 0                  | U+0030             |
+| \[                 | ‘                  | U+2018             |
+| \{                 | “                  | U+201C             |
+| <AltGr\>\+\[       | \[                 | U+005B             |
+| <AltGr\>\+\{       | \{                 | U+007B             |
+| \]                 | ’                  | U+2019             |
+| \}                 | ”                  | U+201D             |
+| <AltGr\>\+\]       | \]                 | U+005D             |
+| <AltGr\>\+\}       | \}                 | U+007D             |
+| ;                  | ·                  | U+00B7             |
+|                    | ◌̓                  | U+0313             |
+| <AltGr\>\+;        | ;                  | U+003B             |
+| <AltGr\>\+'        | '                  | U+0027             |
+
