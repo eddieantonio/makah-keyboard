@@ -5,7 +5,11 @@ date: "December 8, 2020"
 
 <style>
 .uniname {
-   font-variant: small-caps
+  font-variant: small-caps
+}
+td:nth-of-type(2) {
+  font-family: Andika, Arial, Arial Unicode MS, sans-serif;
+  text-align: center;
 }
 </style>
 
@@ -50,7 +54,7 @@ table **override** keys on an ANSI QWERTY keyboard layout.
 |--------------------|--------------------|--------------------|
 | \`                 | ḥ                  | U+1E25             |
 | ~                  | Ḥ                  | U+1E24             |
-| <AltGr\>\+&grave;  | &grave;            | U+0060             |
+| <AltGr\>\+&#96;    | &#96;              | U+0060             |
 | <AltGr\>\+~        | ~                  | U+007E             |
 | 2                  | ʷ                  | U+02B7             |
 | <AltGr\>\+2        | 2                  | U+0032             |
