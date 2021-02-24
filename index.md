@@ -56,6 +56,7 @@ table **override** keys on an ANSI QWERTY keyboard layout.
 | ~                  | Ḥ                  | U+1E24             |
 | <AltGr\>\+&#96;    | &#96;              | U+0060             |
 | <AltGr\>\+~        | ~                  | U+007E             |
+| 1                  | !                  | U+0021             |
 | 2                  | ʷ                  | U+02B7             |
 | <AltGr\>\+2        | 2                  | U+0032             |
 | 3                  | š                  | U+0161             |
