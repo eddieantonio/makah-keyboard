@@ -22,10 +22,8 @@ This is the keyboard layout for physical keyboards:
 ![The Makah keyboard layout](./desktop.png)
 
 <aside>
-[Image source][src]
+<a href="http://www.keyboard-layout-editor.com/#/gists/90db9f968bb5911833d0cb37211c0a1e>">Image source</a>
 </aside>
-
-[src]: http://www.keyboard-layout-editor.com/#/gists/90db9f968bb5911833d0cb37211c0a1e>
 
 Note: the exact key or keys represented by <kbd>Alt</kbd> is dependent
 upon the platform's conventions:
@@ -127,7 +125,8 @@ History
 
 ### 2008
 
-The layout was  on a [keyboard layout][myh-language-geek] by [Chris Harvey][languagegeek].
+The layout was  on a [keyboard layout][myh-language-geek] by
+[Chris Harvey][language-geek].
 
 ### Late 2020
 
