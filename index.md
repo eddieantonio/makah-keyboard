@@ -7,8 +7,9 @@ date: "June 7, 2021"
 .uniname {
   font-variant: small-caps
 }
-td:nth-of-type(2) {
-  font-family: Andika, Arial, Arial Unicode MS, sans-serif;
+/* the preview column */
+td:nth-of-type(3) {
+  font-family: Andika, Arial, sans-serif;
   text-align: center;
 }
 aside {
@@ -21,11 +22,13 @@ This is the keyboard layout for physical keyboards:
 ![The Makah keyboard layout](./desktop.png)
 
 <aside>
-Image source: <http://www.keyboard-layout-editor.com/#/gists/90db9f968bb5911833d0cb37211c0a1e>
+[Image source][src]
 </aside>
 
-Note: the exact keys or keys represented by "right alt" is dependent
-upon the platform's conventions.
+[src]: http://www.keyboard-layout-editor.com/#/gists/90db9f968bb5911833d0cb37211c0a1e>
+
+Note: the exact key or keys represented by <kbd>Alt</kbd> is dependent
+upon the platform's conventions:
 
  - Either <kbd>Alt</kbd> or <kbd>Option</kbd> key is pressed.
  - The right <kbd>Alt</kbd> or right <kbd>Option</kbd> key is pressed.
