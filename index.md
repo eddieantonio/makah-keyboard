@@ -1,6 +1,6 @@
 ---
 title: Makah (Qʷi·qʷi·diččaq) keyboard layout
-date: "December 8, 2020"
+date: "June 7, 2021"
 ---
 
 <style>
@@ -15,33 +15,17 @@ td:nth-of-type(2) {
 
 This is the keyboard layout:
 
-### Default
+![The Makah keyboard layout](./desktop.png)
 
-![Default keyboard layout](./makah-default.svg)
+Note: the exact keys or keys represented by "right alt" is dependent
+upon the platform's conventions. 
 
-### Shift
-
-![Keyboard when shift is pressed](./makah-shift.svg)
-
-### Alt
-
-Note: the "alt" layer should be active under one the following
-conditions:
-
- * Either <kbd>Alt</kbd> or <kbd>Option</kbd> key is pressed.
- * The right <kbd>Alt</kbd> or <kbd>Option</kbd> key is pressed.
- * <kbd>Ctrl</kbd> and <kbd>Alt</kbd> are pressed simultaneously
+ - Either <kbd>Alt</kbd> or <kbd>Option</kbd> key is pressed.
+ - The right <kbd>Alt</kbd> or right <kbd>Option</kbd> key is pressed.
+ - <kbd>Ctrl</kbd> and <kbd>Alt</kbd> are pressed simultaneously
 
 Choose ONE of the above options according to what is most common in the
 implementation platform.
-
-![Keyboard when alt is pressed](./makah-alt.svg)
-
-
-### Alt + Shift
-
-![Keyboard when alt and shift are pressed](./makah-alt-shift.svg)
-
 
 Remapped key sequences
 ----------------------
@@ -50,51 +34,72 @@ The following table lists keys and the output Unicode code points
 required for the Qʷi·qʷi·diččaq keyboard. The key sequences in this
 table **override** keys on an ANSI QWERTY keyboard layout.
 
-|Key sequence        | Preview            | Unicode output     |
-|--------------------|--------------------|--------------------|
-| \`                 | ḥ                  | U+1E25             |
-| ~                  | Ḥ                  | U+1E24             |
-| <AltGr\>\+&#96;    | &#96;              | U+0060             |
-| <AltGr\>\+~        | ~                  | U+007E             |
-| 1                  | !                  | U+0021             |
-| 2                  | ʷ                  | U+02B7             |
-| <AltGr\>\+2        | 2                  | U+0032             |
-| 3                  | š                  | U+0161             |
-| \#                 | Š                  | U+0160             |
-| <AltGr\>\+3        | 3                  | U+0033             |
-| <AltGr\>\+\#       | \#                 | U+0023             |
-| 4                  | č                  | U+010D             |
-| $                  | Č                  | U+010C             |
-| <AltGr\>\+4        | 4                  | U+0034             |
-| <AltGr\>\+$        | $                  | U+0024             |
-| 5                  | ƛ                  | U+019B             |
-| <AltGr\>\+5        | 5                  | U+0035             |
-| 6                  | ŋ                  | U+014B             |
-| <AltGr\>\+6        | 6                  | U+0036             |
-| 7                  | x̌                  | U+0078;U+030C      |
-| &                  | X̌                  | U+0058;U+030C      |
-| <AltGr\>\+7        | 7                  | U+0037             |
-| <AltGr\>\+&        | &                  | U+0026             |
-| 8                  | ɫ                  | U+026B             |
-| \*                 | Ɫ                  | U+2C62             |
-| <AltGr\>\+8        | 8                  | U+0038             |
-| <AltGr\>\+\*       | \*                 | U+002A             |
-| 9                  | Ɂ                  | U+0241             |
-| <AltGr\>\+9        | 9                  | U+0039             |
-| 0                  | °                  | U+00B0             |
-| <AltGr\>\+0        | 0                  | U+0030             |
-| \[                 | ‘                  | U+2018             |
-| \{                 | “                  | U+201C             |
-| <AltGr\>\+\[       | \[                 | U+005B             |
-| <AltGr\>\+\{       | \{                 | U+007B             |
-| \]                 | ’                  | U+2019             |
-| \}                 | ”                  | U+201D             |
-| <AltGr\>\+\]       | \]                 | U+005D             |
-| <AltGr\>\+\}       | \}                 | U+007D             |
-| ;                  | ·                  | U+00B7             |
-| &apos;             | ◌̓                  | U+0313             |
-| <AltGr\>\+;        | ;                  | U+003B             |
-| <AltGr\>\+&apos;   | &apos;             | U+0027             |
+When a key has a modifier, it means to press the key in addition to the
+modifier(s) in order to get the result.
+
+| Modifier                        | Key               | Preview | Unicode output |
+|                                 | <kbd>`</kbd>      | ḥ       | 1E25           |
+|                                 | <kbd>1</kbd>      | !       | 0021           |
+|                                 | <kbd>2</kbd>      | ʷ       | 02B7           |
+|                                 | <kbd>3</kbd>      | š       | 0161           |
+|                                 | <kbd>4</kbd>      | č       | 010D           |
+|                                 | <kbd>5</kbd>      | ƛ       | 019B           |
+|                                 | <kbd>6</kbd>      | ŋ       | 014B           |
+|                                 | <kbd>7</kbd>      | x̌       | 0078;030C      |
+|                                 | <kbd>8</kbd>      | ɫ       | 026B           |
+|                                 | <kbd>9</kbd>      | Ɂ       | 0241           |
+|                                 | <kbd>0</kbd>      | °       | 00B0           |
+|                                 | <kbd>[</kbd>      | ‘       | 2018           |
+|                                 | <kbd>[</kbd>      | ’       | 2019           |
+|                                 | <kbd>:</kbd>      | ·       | 00B7           |
+|                                 | <kbd>&#x27;</kbd> | ◌̓       | 0313           |
+| <kbd>Shift</kbd>                | <kbd>`</kbd>      | Ḥ       | 1E24           |
+| <kbd>Shift</kbd>                | <kbd>3</kbd>      | Š       | 0160           |
+| <kbd>Shift</kbd>                | <kbd>4</kbd>      | Č       | 010C           |
+| <kbd>Shift</kbd>                | <kbd>7</kbd>      | X̌       | 0058;030C      |
+| <kbd>Shift</kbd>                | <kbd>8</kbd>      | Ɫ       | 2C62           |
+| <kbd>Shift</kbd>                | <kbd>[</kbd>      | “       | 201C           |
+| <kbd>Shift</kbd>                | <kbd>[</kbd>      | ”       | 201D           |
+| <kbd>Alt</kbd>                  | <kbd>`</kbd>      | `       | 0060           |
+| <kbd>Alt</kbd>                  | <kbd>1</kbd>      | 1       | 0031           |
+| <kbd>Alt</kbd>                  | <kbd>2</kbd>      | 2       | 0032           |
+| <kbd>Alt</kbd>                  | <kbd>3</kbd>      | 3       | 0033           |
+| <kbd>Alt</kbd>                  | <kbd>4</kbd>      | 4       | 0034           |
+| <kbd>Alt</kbd>                  | <kbd>5</kbd>      | 5       | 0035           |
+| <kbd>Alt</kbd>                  | <kbd>6</kbd>      | 6       | 0036           |
+| <kbd>Alt</kbd>                  | <kbd>7</kbd>      | 7       | 0037           |
+| <kbd>Alt</kbd>                  | <kbd>8</kbd>      | 8       | 0038           |
+| <kbd>Alt</kbd>                  | <kbd>9</kbd>      | 9       | 0039           |
+| <kbd>Alt</kbd>                  | <kbd>0</kbd>      | 0       | 0030           |
+| <kbd>Alt</kbd>                  | <kbd>-</kbd>      | «       | 00AB           |
+| <kbd>Alt</kbd>                  | <kbd>=</kbd>      | »       | 00BB           |
+| <kbd>Alt</kbd>                  | <kbd>[</kbd>      | [       | 005B           |
+| <kbd>Alt</kbd>                  | <kbd>[</kbd>      | ]       | 005D           |
+| <kbd>Alt</kbd>                  | <kbd>\</kbd>      | \|      | 007C           |
+| <kbd>Alt</kbd>                  | <kbd>:</kbd>      | ;       | 003B           |
+| <kbd>Alt</kbd>                  | <kbd>&#x27;</kbd> | &quot;  | 0022           |
+| <kbd>Alt</kbd>                  | <kbd>,</kbd>      | ,       | 002C           |
+| <kbd>Alt</kbd>                  | <kbd>.</kbd>      | .       | 002E           |
+| <kbd>Alt</kbd>                  | <kbd>/</kbd>      | /       | 002F           |
+| <kbd>Shift</kbd>+<kbd>Alt</kbd> | <kbd>`</kbd>      | ~       | 007E           |
+| <kbd>Shift</kbd>+<kbd>Alt</kbd> | <kbd>1</kbd>      | !       | 0021           |
+| <kbd>Shift</kbd>+<kbd>Alt</kbd> | <kbd>2</kbd>      | @       | 0040           |
+| <kbd>Shift</kbd>+<kbd>Alt</kbd> | <kbd>3</kbd>      | #       | 0023           |
+| <kbd>Shift</kbd>+<kbd>Alt</kbd> | <kbd>4</kbd>      | $       | 0024           |
+| <kbd>Shift</kbd>+<kbd>Alt</kbd> | <kbd>5</kbd>      | %       | 0025           |
+| <kbd>Shift</kbd>+<kbd>Alt</kbd> | <kbd>6</kbd>      | ^       | 005E           |
+| <kbd>Shift</kbd>+<kbd>Alt</kbd> | <kbd>7</kbd>      | &amp;   | 0026           |
+| <kbd>Shift</kbd>+<kbd>Alt</kbd> | <kbd>8</kbd>      | *       | 002A           |
+| <kbd>Shift</kbd>+<kbd>Alt</kbd> | <kbd>9</kbd>      | (       | 0028           |
+| <kbd>Shift</kbd>+<kbd>Alt</kbd> | <kbd>0</kbd>      | )       | 0029           |
+| <kbd>Shift</kbd>+<kbd>Alt</kbd> | <kbd>[</kbd>      | {       | 007B           |
+| <kbd>Shift</kbd>+<kbd>Alt</kbd> | <kbd>[</kbd>      | }       | 007D           |
+| <kbd>Shift</kbd>+<kbd>Alt</kbd> | <kbd>\</kbd>      | \|      | 007C           |
+| <kbd>Shift</kbd>+<kbd>Alt</kbd> | <kbd>:</kbd>      | :       | 003A           |
+| <kbd>Shift</kbd>+<kbd>Alt</kbd> | <kbd>&#x27;</kbd> | &quot;  | 0022           |
+| <kbd>Shift</kbd>+<kbd>Alt</kbd> | <kbd>,</kbd>      | &lt;    | 003C           |
+| <kbd>Shift</kbd>+<kbd>Alt</kbd> | <kbd>.</kbd>      | &gt;    | 003E           |
+| <kbd>Shift</kbd>+<kbd>Alt</kbd> | <kbd>/</kbd>      | ?       | 003F           |
 
 A few notes:
 
@@ -102,7 +107,7 @@ A few notes:
     U+0313 <span class="uniname">combing comma above</span>
     indicates a glottalized version of a modified consonant, e.g,
     <kbd>k</kbd>+<kbd>&apos;</kbd> = ⟨k̓⟩.
- 2. Both ⟨x̌⟩ and ⟨X̌⟩ do not have a single code point used to reprsent
+ 2. Both ⟨x̌⟩ and ⟨X̌⟩ do not have a single code point used to represent
     them; instead, a pair of code points is used, and thus, one
     keystroke should output two code points for both of these
     characters.
