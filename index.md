@@ -13,12 +13,12 @@ td:nth-of-type(2) {
 }
 </style>
 
-This is the keyboard layout:
+This is the keyboard layout for physical keyboards:
 
 ![The Makah keyboard layout](./desktop.png)
 
 Note: the exact keys or keys represented by "right alt" is dependent
-upon the platform's conventions. 
+upon the platform's conventions.
 
  - Either <kbd>Alt</kbd> or <kbd>Option</kbd> key is pressed.
  - The right <kbd>Alt</kbd> or right <kbd>Option</kbd> key is pressed.
@@ -60,7 +60,7 @@ modifier(s) in order to get the result.
 | <kbd>Shift</kbd>                | <kbd>8</kbd>      | Ɫ       | 2C62           |
 | <kbd>Shift</kbd>                | <kbd>[</kbd>      | “       | 201C           |
 | <kbd>Shift</kbd>                | <kbd>[</kbd>      | ”       | 201D           |
-| <kbd>Alt</kbd>                  | <kbd>`</kbd>      | `       | 0060           |
+| <kbd>Alt</kbd>                  | <kbd>`</kbd>      | &grave; | 0060           |
 | <kbd>Alt</kbd>                  | <kbd>1</kbd>      | 1       | 0031           |
 | <kbd>Alt</kbd>                  | <kbd>2</kbd>      | 2       | 0032           |
 | <kbd>Alt</kbd>                  | <kbd>3</kbd>      | 3       | 0033           |
@@ -75,7 +75,7 @@ modifier(s) in order to get the result.
 | <kbd>Alt</kbd>                  | <kbd>=</kbd>      | »       | 00BB           |
 | <kbd>Alt</kbd>                  | <kbd>[</kbd>      | [       | 005B           |
 | <kbd>Alt</kbd>                  | <kbd>[</kbd>      | ]       | 005D           |
-| <kbd>Alt</kbd>                  | <kbd>\</kbd>      | \|      | 007C           |
+| <kbd>Alt</kbd>                  | <kbd>\</kbd>      | &vert;  | 007C           |
 | <kbd>Alt</kbd>                  | <kbd>:</kbd>      | ;       | 003B           |
 | <kbd>Alt</kbd>                  | <kbd>&#x27;</kbd> | &quot;  | 0022           |
 | <kbd>Alt</kbd>                  | <kbd>,</kbd>      | ,       | 002C           |
@@ -94,14 +94,14 @@ modifier(s) in order to get the result.
 | <kbd>Shift</kbd>+<kbd>Alt</kbd> | <kbd>0</kbd>      | )       | 0029           |
 | <kbd>Shift</kbd>+<kbd>Alt</kbd> | <kbd>[</kbd>      | {       | 007B           |
 | <kbd>Shift</kbd>+<kbd>Alt</kbd> | <kbd>[</kbd>      | }       | 007D           |
-| <kbd>Shift</kbd>+<kbd>Alt</kbd> | <kbd>\</kbd>      | \|      | 007C           |
+| <kbd>Shift</kbd>+<kbd>Alt</kbd> | <kbd>\</kbd>      | &vert;  | 007C           |
 | <kbd>Shift</kbd>+<kbd>Alt</kbd> | <kbd>:</kbd>      | :       | 003A           |
 | <kbd>Shift</kbd>+<kbd>Alt</kbd> | <kbd>&#x27;</kbd> | &quot;  | 0022           |
 | <kbd>Shift</kbd>+<kbd>Alt</kbd> | <kbd>,</kbd>      | &lt;    | 003C           |
 | <kbd>Shift</kbd>+<kbd>Alt</kbd> | <kbd>.</kbd>      | &gt;    | 003E           |
 | <kbd>Shift</kbd>+<kbd>Alt</kbd> | <kbd>/</kbd>      | ?       | 003F           |
 
-A few notes:
+### Notes
 
  1. The <kbd>&apos;</kbd> outputs a combining character. This character,
     U+0313 <span class="uniname">combing comma above</span>
@@ -111,3 +111,32 @@ A few notes:
     them; instead, a pair of code points is used, and thus, one
     keystroke should output two code points for both of these
     characters.
+
+History
+-------
+
+### 2008
+
+The layout was  on a [keyboard layout][myh-language-geek] by [Chris Harvey][languagegeek].
+
+### Late 2020
+
+A keyboard layout was agreed upon by a collaboration of members from the
+[Makah Language Program][MLP], the [National Research Council][ILT], and
+[Google Internationalization][Google].
+
+This layout was uploaded to the [Makah Museum], and implemented in
+[Google Input Tools].
+
+### June 2021
+
+The keyboard was [revised and uploaded to Keyman][nrc_makah].
+
+[language-geek]: http://www.languagegeek.com/
+[myh-language-geek]: http://www.languagegeek.com/nwc/keymaps/WakashanCanada/MakahNum.pdf
+[MLP]: https://makahmuseum.com/departments/makah-language-program/
+[ILT]: https://nrc.canada.ca/en/research-development/research-collaboration/programs/canadian-indigenous-languages-technology-project
+[Google]: https://developers.google.com/international/
+[Google Input Tools]: https://www.google.com/inputtools/
+[Makah Museum]: https://makahmuseum.com/makah-keyboard/
+[nrc_makah]: https://keyman.com/keyboards/nrc_makah
