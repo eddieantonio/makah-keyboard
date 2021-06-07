@@ -11,11 +11,18 @@ td:nth-of-type(2) {
   font-family: Andika, Arial, Arial Unicode MS, sans-serif;
   text-align: center;
 }
+aside {
+  font-size: smaller;
+}
 </style>
 
 This is the keyboard layout for physical keyboards:
 
 ![The Makah keyboard layout](./desktop.png)
+
+<aside>
+Image source: <http://www.keyboard-layout-editor.com/#/gists/90db9f968bb5911833d0cb37211c0a1e>
+</aside>
 
 Note: the exact keys or keys represented by "right alt" is dependent
 upon the platform's conventions.
