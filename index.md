@@ -67,7 +67,7 @@ modifier(s) in order to get the result.
 | <kbd>Shift</kbd>                | <kbd>8</kbd>      | Ɫ       | 2C62           |
 | <kbd>Shift</kbd>                | <kbd>[</kbd>      | “       | 201C           |
 | <kbd>Shift</kbd>                | <kbd>[</kbd>      | ”       | 201D           |
-| <kbd>Alt</kbd>                  | <kbd>`</kbd>      | &grave; | 0060           |
+| <kbd>Alt</kbd>                  | <kbd>`</kbd>      | &#x60;  | 0060           |
 | <kbd>Alt</kbd>                  | <kbd>1</kbd>      | 1       | 0031           |
 | <kbd>Alt</kbd>                  | <kbd>2</kbd>      | 2       | 0032           |
 | <kbd>Alt</kbd>                  | <kbd>3</kbd>      | 3       | 0033           |
@@ -82,7 +82,7 @@ modifier(s) in order to get the result.
 | <kbd>Alt</kbd>                  | <kbd>=</kbd>      | »       | 00BB           |
 | <kbd>Alt</kbd>                  | <kbd>[</kbd>      | [       | 005B           |
 | <kbd>Alt</kbd>                  | <kbd>[</kbd>      | ]       | 005D           |
-| <kbd>Alt</kbd>                  | <kbd>\</kbd>      | &vert;  | 007C           |
+| <kbd>Alt</kbd>                  | <kbd>\</kbd>      | &#x5c;  | 005C           |
 | <kbd>Alt</kbd>                  | <kbd>:</kbd>      | ;       | 003B           |
 | <kbd>Alt</kbd>                  | <kbd>&#x27;</kbd> | &quot;  | 0022           |
 | <kbd>Alt</kbd>                  | <kbd>,</kbd>      | ,       | 002C           |
@@ -101,7 +101,7 @@ modifier(s) in order to get the result.
 | <kbd>Shift</kbd>+<kbd>Alt</kbd> | <kbd>0</kbd>      | )       | 0029           |
 | <kbd>Shift</kbd>+<kbd>Alt</kbd> | <kbd>[</kbd>      | {       | 007B           |
 | <kbd>Shift</kbd>+<kbd>Alt</kbd> | <kbd>[</kbd>      | }       | 007D           |
-| <kbd>Shift</kbd>+<kbd>Alt</kbd> | <kbd>\</kbd>      | &vert;  | 007C           |
+| <kbd>Shift</kbd>+<kbd>Alt</kbd> | <kbd>\</kbd>      | &#x7c;  | 007C           |
 | <kbd>Shift</kbd>+<kbd>Alt</kbd> | <kbd>:</kbd>      | :       | 003A           |
 | <kbd>Shift</kbd>+<kbd>Alt</kbd> | <kbd>&#x27;</kbd> | &quot;  | 0022           |
 | <kbd>Shift</kbd>+<kbd>Alt</kbd> | <kbd>,</kbd>      | &lt;    | 003C           |
