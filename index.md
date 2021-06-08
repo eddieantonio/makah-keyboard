@@ -25,12 +25,12 @@ This is the keyboard layout for physical keyboards:
 <a href="http://www.keyboard-layout-editor.com/#/gists/90db9f968bb5911833d0cb37211c0a1e">Image source</a>
 </aside>
 
-Note: the exact key or keys represented by <kbd>Alt</kbd> is dependent
+Note: the exact key or keys represented by <kbd>Alt</kbd> depends
 upon the platform's conventions:
 
- - Either <kbd>Alt</kbd> or <kbd>Option</kbd> key is pressed.
- - The right <kbd>Alt</kbd> or right <kbd>Option</kbd> key is pressed.
- - <kbd>Ctrl</kbd> and <kbd>Alt</kbd> are pressed simultaneously
+ - Either <kbd>Alt</kbd> or <kbd>Option</kbd> key is pressed (macOS)
+ - The right <kbd>Alt</kbd> or the right <kbd>Option</kbd> key is pressed (Windows)
+ - <kbd>Ctrl</kbd> and <kbd>Alt</kbd> are pressed simultaneously (Google Input Tools)
 
 Choose ONE of the above options according to what is most common in the
 implementation platform.
@@ -125,12 +125,13 @@ History
 
 ### 2008
 
-The layout was  on a [keyboard layout][myh-language-geek] by
-[Chris Harvey][language-geek].
+An initial [keyboard layout][myh-language-geek] was created by [Chris
+Harvey][language-geek] for Makah.
 
 ### Late 2020
 
-A keyboard layout was agreed upon by a collaboration of members from the
+Using the previous layout as a basis, a modified layout was agreed upon
+by a collaboration of members from the
 [Makah Language Program][MLP], the [National Research Council][ILT], and
 [Google Internationalization][Google].
 
